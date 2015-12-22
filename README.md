@@ -1,4 +1,4 @@
-Adblock Plus for Chrome, Opera and Safari
+Adblocky for Chrome, Opera and Safari
 =========================================
 
 This repository contains the platform-specific Adblock Plus source code for
