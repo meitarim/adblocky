@@ -354,26 +354,32 @@
       var onBeforeNavigate = chrome.webNavigation.onBeforeNavigate;
       if (!onBeforeNavigate.hasListener(propagateHandlerBehaviorChange))
         onBeforeNavigate.addListener(propagateHandlerBehaviorChange);
+    },
+    getIndistinguishableTypes: function()
+    {
+      // Chrome 38-48 mistakenly reports requests of type `object`
+      // (e.g. requests initiated by Flash) with the type `other`.
+      // https://code.google.com/p/chromium/issues/detail?id=410382
+      var match = navigator.userAgent.match(/\bChrome\/(\d+)/);
+      if (match)
+      {
+        var version = parseInt(match[1], 10);
+        if (version >= 38 && version <= 48)
+          return [["OTHER", "OBJECT", "OBJECT_SUBREQUEST"]];
+      }
+
+      // Before Chrome 49, requests of the type `font` and `ping`
+      // have been reported with the type `other`.
+      // https://code.google.com/p/chromium/issues/detail?id=410382
+      var otherTypes = ["OTHER", "MEDIA"];
+      if (!("FONT" in chrome.webRequest.ResourceType))
+        otherTypes.push("FONT");
+      if (!("PING" in chrome.webRequest.ResourceType))
+        otherTypes.push("PING");
+
+      return [["OBJECT", "OBJECT_SUBREQUEST"], otherTypes];
     }
   };
-
-  // Since Chrome 38 requests of type 'object' (e.g. requests
-  // initiated by Flash) are mistakenly reported with the type 'other'.
-  // https://code.google.com/p/chromium/issues/detail?id=410382
-  var match = navigator.userAgent.match(/\bChrome\/(\d+)/);
-  if (match && parseInt(match[1], 10) >= 38)
-  {
-    ext.webRequest.indistinguishableTypes = [
-      ["OTHER", "OBJECT", "OBJECT_SUBREQUEST"]
-    ];
-  }
-  else
-  {
-    ext.webRequest.indistinguishableTypes = [
-      ["OBJECT", "OBJECT_SUBREQUEST"],
-      ["OTHER", "MEDIA", "FONT"]
-    ];
-  }
 
   chrome.tabs.query({}, function(tabs)
   {
@@ -410,7 +416,7 @@
 
     var isMainFrame = details.type == "main_frame" || (
 
-      // assume that the first request belongs to the top frame. Chrome
+      // assume that the first request belongs to the top frame. Chrome 29
       // may give the top frame the type "object" instead of "main_frame".
       // https://code.google.com/p/chromium/issues/detail?id=281711
       details.frameId == 0 && !(details.tabId in framesOfTabs)
@@ -531,89 +537,7 @@
     {
       chrome.storage.local.remove(key, callback);
     },
-    onChanged: chrome.storage.onChanged,
-
-    // Migrate localStorage to chrome.storage.local,
-    // ignoring unkown and invalid preferences.
-    migratePrefs: function(hooks)
-    {
-      var items = {};
-
-      for (let key in localStorage)
-      {
-        var item = hooks.map(key, localStorage[key]);
-        if (item)
-          items[item.key] = item.value;
-      }
-
-      chrome.storage.local.set(items, function() {
-        localStorage.clear();
-        hooks.done();
-      });
-    },
-
-    // Migrate FileSystem API to chrome.storage.local. For simplicity
-    // only patterns.ini is considered. Backups are left behind.
-    migrateFiles: function(callback)
-    {
-      if ("webkitRequestFileSystem" in window)
-      {
-        webkitRequestFileSystem(PERSISTENT, 0, function(fs)
-        {
-          fs.root.getFile("patterns.ini", {}, function(entry)
-          {
-            entry.getMetadata(function(metadata)
-            {
-              entry.file(function(file)
-              {
-                var reader = new FileReader();
-                reader.onloadend = function()
-                {
-                  if (!reader.error)
-                  {
-                    chrome.storage.local.set(
-                      {
-                        "file:patterns.ini": {
-                          content: reader.result.split(/[\r\n]+/),
-                          lastModified: metadata.modificationTime.getTime()
-                        }
-                      },
-                      function()
-                      {
-                        fs.root.createReader().readEntries(function(entries)
-                        {
-                          var emptyFunc = function() {};
-
-                          for (var i = 0; i < entries.length; i++)
-                          {
-                            var entry = entries[i];
-                            if (entry.isDirectory)
-                              entry.removeRecursively(emptyFunc, emptyFunc);
-                            else
-                              entry.remove(emptyFunc, emptyFunc);
-                          }
-                        });
-
-                        callback();
-                      }
-                    );
-                  }
-                  else
-                  {
-                    callback();
-                  }
-                };
-                reader.readAsText(file);
-              }, callback);
-            }, callback);
-          }, callback);
-        }, callback);
-      }
-      else
-      {
-        callback();
-      }
-    }
+    onChanged: chrome.storage.onChanged
   };
 
   /* Options */
