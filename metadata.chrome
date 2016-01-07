@@ -2,7 +2,7 @@
 inherit = metadata.common
 
 [general]
-basename = adblockpluschrome
+basename = adblocky
 permissions = tabs
   http://*/*
   https://*/*
