@@ -39,7 +39,7 @@
     "message": "<strong>Dezactivat</strong> pe acest site"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus este dezactivat pentru domeniile listate mai jos. Poți adăuga un domeniu folosind iconița Adblock Plus in bara de adrese sau scriind domeniul (nu URL-ul) in spațiul de mai jos și făcând clic pe butonul \"Adaugă domeniu\"."
+    "message": "Adblocky este dezactivat pentru domeniile listate mai jos. Poți adăuga un domeniu folosind iconița Adblocky in bara de adrese sau scriind domeniul (nu URL-ul) in spațiul de mai jos și făcând clic pe butonul \"Adaugă domeniu\"."
   },
   "easy_create_filter": {
     "message": "Blochează elementul"
@@ -57,10 +57,10 @@
     "message": "Liste de filtre"
   },
   "filter_must_follow_syntax": {
-    "message": "Filtrul tău trebuie să respecte <a> sintaxa Adblock Plus pentru filtre</a>."
+    "message": "Filtrul tău trebuie să respecte <a> sintaxa Adblocky pentru filtre</a>."
   },
   "found_a_bug": {
-    "message": "Ai gasit o eroare? Dorești să traduci Adblock Plus în limba ta?  <a>scrie o cerere aici</a>."
+    "message": "Ai gasit o eroare? Dorești să traduci Adblocky în limba ta?  <a>scrie o cerere aici</a>."
   },
   "general": {
     "message": "General"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Versiune de test Adblock Plus"
+    "message": "Versiune de test Adblocky"
   },
   "notification_configure": {
     "message": "Configuraţi setările de notificare"
@@ -116,7 +116,7 @@
     "message": "Clic pe notificare pentru a deschide toate link-urile incluse în ea."
   },
   "options": {
-    "message": "Opţiuni Adblock Plus"
+    "message": "Opţiuni Adblocky"
   },
   "options_short": {
     "message": "Opţiuni"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Descarcă Adblock Plus"
+    "message": "Descarcă Adblocky"
   },
   "stats_share_message": {
-    "message": "Am blocat $number$ reclame si trackere datorita lui Adblock Plus.",
+    "message": "Am blocat $number$ reclame si trackere datorita lui Adblocky.",
     "placeholders": {
       "number": {
         "content": "$1"

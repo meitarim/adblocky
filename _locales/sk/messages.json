@@ -39,7 +39,7 @@
     "message": "<strong>Zakázané</strong> na tejto stránke"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus je vypnutý v doménach uvedených nižšie. Môžete pridať doménu buď cez ikonu Adblock Plus v paneli s adresou alebo zadaním domény (nie URL) do poľa a kliknutím na tlačidlo \"Pridať doménu\"."
+    "message": "Adblocky je vypnutý v doménach uvedených nižšie. Môžete pridať doménu buď cez ikonu Adblocky v paneli s adresou alebo zadaním domény (nie URL) do poľa a kliknutím na tlačidlo \"Pridať doménu\"."
   },
   "easy_create_filter": {
     "message": "Blokovať prvok"
@@ -57,10 +57,10 @@
     "message": "Zoznamy filtrov"
   },
   "filter_must_follow_syntax": {
-    "message": "Váš filter musí spĺňať <a>syntax filtrov Adblock Plus</a>."
+    "message": "Váš filter musí spĺňať <a>syntax filtrov Adblocky</a>."
   },
   "found_a_bug": {
-    "message": "Nájdené chyba? Chcete preložiť Adblock Plus do vášho jazyka? Prosím <a> zadajte žiadosť tu</a>."
+    "message": "Nájdené chyba? Chcete preložiť Adblocky do vášho jazyka? Prosím <a> zadajte žiadosť tu</a>."
   },
   "general": {
     "message": "Všeobecné"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Vývojová verzia Adblock Plus"
+    "message": "Vývojová verzia Adblocky"
   },
   "notification_configure": {
     "message": "Konfigurovať nastavenia upozornení"
@@ -116,7 +116,7 @@
     "message": "Kliknite na upozornenie pre otvorenie všetkých odkazov v ňom."
   },
   "options": {
-    "message": "Adblock Plus nastavenia"
+    "message": "Adblocky nastavenia"
   },
   "options_short": {
     "message": "Možnosti"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Stiahnuť Adblock Plus"
+    "message": "Stiahnuť Adblocky"
   },
   "stats_share_message": {
-    "message": "Zablokoval som $number$ reklám a sledovačov vďaka Adblock Plus.",
+    "message": "Zablokoval som $number$ reklám a sledovačov vďaka Adblocky.",
     "placeholders": {
       "number": {
         "content": "$1"

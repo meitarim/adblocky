@@ -39,7 +39,7 @@
     "message": "<strong>Desativado</strong> neste site"
   },
   "disabled_for_these_domains": {
-    "message": "O Adblock Plus está desabilitado para os domínios abaixo. Você pode adicionar um domínio, tanto pelo ícone do Adblock Plus na barra de endereços, quanto digitando o domínio (não a URL) dentro da caixa e clicando no botão \"Adicionar domínio\"."
+    "message": "O Adblocky está desabilitado para os domínios abaixo. Você pode adicionar um domínio, tanto pelo ícone do Adblocky na barra de endereços, quanto digitando o domínio (não a URL) dentro da caixa e clicando no botão \"Adicionar domínio\"."
   },
   "easy_create_filter": {
     "message": "Bloquear elemento"
@@ -57,10 +57,10 @@
     "message": "Lista de Filtros"
   },
   "filter_must_follow_syntax": {
-    "message": "Seu filtro deve seguir o <a>Filtro sintaxe de Adblock Plus</a>."
+    "message": "Seu filtro deve seguir o <a>Filtro sintaxe de Adblocky</a>."
   },
   "found_a_bug": {
-    "message": "Encontrou um erro? Deseja traduzir o Adblock Plus para seu idioma? Por favor <a>arquive um pedido aqui</a>."
+    "message": "Encontrou um erro? Deseja traduzir o Adblocky para seu idioma? Por favor <a>arquive um pedido aqui</a>."
   },
   "general": {
     "message": "Geral"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Versão de desenvolvimento do Adblock Plus"
+    "message": "Versão de desenvolvimento do Adblocky"
   },
   "notification_configure": {
     "message": "Definir configurações de notificação"
@@ -116,7 +116,7 @@
     "message": "Clique na notificação para abrir todos os links nele."
   },
   "options": {
-    "message": "Opções do Adblock Plus"
+    "message": "Opções do Adblocky"
   },
   "options_short": {
     "message": "Opções"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Baixar o Adblock Plus"
+    "message": "Baixar o Adblocky"
   },
   "stats_share_message": {
-    "message": "Eu bloqueei $number$ anúncios e rastreadores graças ao Adblock Plus.",
+    "message": "Eu bloqueei $number$ anúncios e rastreadores graças ao Adblocky.",
     "placeholders": {
       "number": {
         "content": "$1"

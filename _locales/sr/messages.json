@@ -39,7 +39,7 @@
     "message": "<strong>Онемогући</strong> на овом сајту"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus не важи за доленаведене домене. Нови домен можете додати путем иконе Adblock Plus-а или тако што ћете унети домен (не URL) у поље и кликнути на дугме „Додај домен“."
+    "message": "Adblocky не важи за доленаведене домене. Нови домен можете додати путем иконе Adblocky-а или тако што ћете унети домен (не URL) у поље и кликнути на дугме „Додај домен“."
   },
   "easy_create_filter": {
     "message": "Блокирај елемент"
@@ -57,10 +57,10 @@
     "message": "Спискови филтера"
   },
   "filter_must_follow_syntax": {
-    "message": "Ваш филтер мора да следи <a>синтаксу за филтере Adblock Plus-а</a>."
+    "message": "Ваш филтер мора да следи <a>синтаксу за филтере Adblocky-а</a>."
   },
   "found_a_bug": {
-    "message": "Пронашли сте грешку или желите да преведете Adblock Plus на свој језик? <a>Овде поднесите захтев</a>."
+    "message": "Пронашли сте грешку или желите да преведете Adblocky на свој језик? <a>Овде поднесите захтев</a>."
   },
   "general": {
     "message": "Опште"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Развојна верзија Adblock Plus-а"
+    "message": "Развојна верзија Adblocky-а"
   },
   "notification_configure": {
     "message": "Подеси поставке обавештавања"
@@ -116,7 +116,7 @@
     "message": "Кликните на обавештење да бисте отворили све везе у њему."
   },
   "options": {
-    "message": "Опције Adblock Plus-а"
+    "message": "Опције Adblocky-а"
   },
   "options_short": {
     "message": "Опције"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Преузми Adblock Plus"
+    "message": "Преузми Adblocky"
   },
   "stats_share_message": {
-    "message": "Блокирао сам $number$ огласа и пратилаца захваљујући Adblock Plus-у.",
+    "message": "Блокирао сам $number$ огласа и пратилаца захваљујући Adblocky-у.",
     "placeholders": {
       "number": {
         "content": "$1"
