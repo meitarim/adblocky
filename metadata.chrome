@@ -2,7 +2,7 @@
 inherit = metadata.common
 
 [general]
-basename = adblocky
+basename = Community Adblock
 permissions = tabs
   http://*/*
   https://*/*
@@ -13,6 +13,7 @@ permissions = tabs
   storage
   unlimitedStorage
   notifications
+  management
 options = options.html
 browserAction = icons/abp-19.png icons/abp-38.png popup.html
 icons = icons/abp-16.png icons/abp-32.png icons/detailed/abp-48.png

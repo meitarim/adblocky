@@ -39,7 +39,7 @@
     "message": "<strong>Вимкнено</strong> на цьому сайті"
   },
   "disabled_for_these_domains": {
-    "message": "Adblocky відключено для нижчеперерахованих доменів. Домени можна додавати за допомогою значка Adblocky у рядку адреси чи набравши назву домена (не адресу) у даному полі та клацнувши кнопку «Додати домен»."
+    "message": "Community Adblock відключено для нижчеперерахованих доменів. Домени можна додавати за допомогою значка Community Adblock у рядку адреси чи набравши назву домена (не адресу) у даному полі та клацнувши кнопку «Додати домен»."
   },
   "easy_create_filter": {
     "message": "Заблокувати елемент"
@@ -57,10 +57,10 @@
     "message": "Списки фільтрів"
   },
   "filter_must_follow_syntax": {
-    "message": "Ваш фільтр має відповідати <a>синтаксису фільтрів Adblocky</a>."
+    "message": "Ваш фільтр має відповідати <a>синтаксису фільтрів Community Adblock</a>."
   },
   "found_a_bug": {
-    "message": "Виявили помилку? Бажаєте перекласти Adblocky своєю мовою? Будь ласка, <a>оформіть заявку тут</a>."
+    "message": "Виявили помилку? Бажаєте перекласти Community Adblock своєю мовою? Будь ласка, <a>оформіть заявку тут</a>."
   },
   "general": {
     "message": "Загальні"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblocky (тестова збiрка)"
+    "message": "Community Adblock (тестова збiрка)"
   },
   "notification_configure": {
     "message": "Налаштувати параметри повідомлень"
@@ -116,7 +116,7 @@
     "message": "Клацніть по повідомленню, щоб відкрити всі посилання в ньому."
   },
   "options": {
-    "message": "Налаштування Adblocky"
+    "message": "Налаштування Community Adblock"
   },
   "options_short": {
     "message": "Налаштування"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Завантажити Adblocky"
+    "message": "Завантажити Community Adblock"
   },
   "stats_share_message": {
-    "message": "Я заблокував $number$ оголошень і шпигунів завдяки Adblocky.",
+    "message": "Я заблокував $number$ оголошень і шпигунів завдяки Community Adblock.",
     "placeholders": {
       "number": {
         "content": "$1"

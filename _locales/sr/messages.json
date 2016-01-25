@@ -39,7 +39,7 @@
     "message": "<strong>Онемогући</strong> на овом сајту"
   },
   "disabled_for_these_domains": {
-    "message": "Adblocky не важи за доленаведене домене. Нови домен можете додати путем иконе Adblocky-а или тако што ћете унети домен (не URL) у поље и кликнути на дугме „Додај домен“."
+    "message": "Community Adblock не важи за доленаведене домене. Нови домен можете додати путем иконе Community Adblock-а или тако што ћете унети домен (не URL) у поље и кликнути на дугме „Додај домен“."
   },
   "easy_create_filter": {
     "message": "Блокирај елемент"
@@ -57,10 +57,10 @@
     "message": "Спискови филтера"
   },
   "filter_must_follow_syntax": {
-    "message": "Ваш филтер мора да следи <a>синтаксу за филтере Adblocky-а</a>."
+    "message": "Ваш филтер мора да следи <a>синтаксу за филтере Community Adblock-а</a>."
   },
   "found_a_bug": {
-    "message": "Пронашли сте грешку или желите да преведете Adblocky на свој језик? <a>Овде поднесите захтев</a>."
+    "message": "Пронашли сте грешку или желите да преведете Community Adblock на свој језик? <a>Овде поднесите захтев</a>."
   },
   "general": {
     "message": "Опште"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Развојна верзија Adblocky-а"
+    "message": "Развојна верзија Community Adblock-а"
   },
   "notification_configure": {
     "message": "Подеси поставке обавештавања"
@@ -116,7 +116,7 @@
     "message": "Кликните на обавештење да бисте отворили све везе у њему."
   },
   "options": {
-    "message": "Опције Adblocky-а"
+    "message": "Опције Community Adblock-а"
   },
   "options_short": {
     "message": "Опције"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Преузми Adblocky"
+    "message": "Преузми Community Adblock"
   },
   "stats_share_message": {
-    "message": "Блокирао сам $number$ огласа и пратилаца захваљујући Adblocky-у.",
+    "message": "Блокирао сам $number$ огласа и пратилаца захваљујући Community Adblock-у.",
     "placeholders": {
       "number": {
         "content": "$1"

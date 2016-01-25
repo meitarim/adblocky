@@ -39,7 +39,7 @@
     "message": "<strong>Wyłączony</strong> na tej stronie"
   },
   "disabled_for_these_domains": {
-    "message": "Adblocky jest wyłączony dla niżej wymienionych domen. Możesz dodać domenę, używając ikony Adblockya znajdującej się w pasku adresu lub wpisując domenę – nie adres URL – w polu i naciskając przycisk „Dodaj domenę”."
+    "message": "Community Adblock jest wyłączony dla niżej wymienionych domen. Możesz dodać domenę, używając ikony Community Adblocka znajdującej się w pasku adresu lub wpisując domenę – nie adres URL – w polu i naciskając przycisk „Dodaj domenę”."
   },
   "easy_create_filter": {
     "message": "Blokuj element"
@@ -57,10 +57,10 @@
     "message": "Listy filtrów"
   },
   "filter_must_follow_syntax": {
-    "message": "Filtr musi przestrzegać <a>składni filtra Adblockya</a>."
+    "message": "Filtr musi przestrzegać <a>składni filtra Community Adblocka</a>."
   },
   "found_a_bug": {
-    "message": "Znalazłeś błąd? Chcesz przetłumaczyć Adblocky na swój język? Zgłoś <a>tutaj</a>."
+    "message": "Znalazłeś błąd? Chcesz przetłumaczyć Community Adblock na swój język? Zgłoś <a>tutaj</a>."
   },
   "general": {
     "message": "Ogólne"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblocky – wersja rozwojowa"
+    "message": "Community Adblock – wersja rozwojowa"
   },
   "notification_configure": {
     "message": "Konfiguruj ustawienia powiadomień"
@@ -116,7 +116,7 @@
     "message": "Kliknij powiadomienie, aby otworzyć wszystkie znajdujące się w nim odnośniki."
   },
   "options": {
-    "message": "Adblocky – ustawienia"
+    "message": "Community Adblock – ustawienia"
   },
   "options_short": {
     "message": "Opcje"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Pobierz Adblocky"
+    "message": "Pobierz Community Adblock"
   },
   "stats_share_message": {
-    "message": "Dzięki Adblocky zablokowano $number$ reklam i tropicieli.",
+    "message": "Dzięki Community Adblock zablokowano $number$ reklam i tropicieli.",
     "placeholders": {
       "number": {
         "content": "$1"

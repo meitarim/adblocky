@@ -1,9 +1,9 @@
-Adblocky for Chrome, Opera and Safari
+Community Adblock for Chrome, Opera and Safari
 =========================================
 
-This repository contains the platform-specific Adblocky source code for
-Chrome, Opera and Safari. It can be used to build Adblocky for these
-platforms, generic Adblocky code will be extracted from other repositories
+This repository contains the platform-specific Community Adblock source code for
+Chrome, Opera and Safari. It can be used to build Community Adblock for these
+platforms, generic Community Adblock code will be extracted from other repositories
 automatically (see _dependencies_ file).
 
 Building

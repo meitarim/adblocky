@@ -39,7 +39,7 @@
     "message": "<strong>Desactivado</strong> en este sitio"
   },
   "disabled_for_these_domains": {
-    "message": "Adblocky está desactivado para los dominios mostrados a continuación. Puede añadir un dominio con el icono de Adblocky en la barra de direcciones o escribiendo el dominio (no la URL) en el recuadro y pulsando el botón \"Añadir dominio\"."
+    "message": "Community Adblock está desactivado para los dominios mostrados a continuación. Puede añadir un dominio con el icono de Community Adblock en la barra de direcciones o escribiendo el dominio (no la URL) en el recuadro y pulsando el botón \"Añadir dominio\"."
   },
   "easy_create_filter": {
     "message": "Bloquear elemento"
@@ -57,10 +57,10 @@
     "message": "Listas de filtros"
   },
   "filter_must_follow_syntax": {
-    "message": "Su filtro debe seguir la <a>sintaxis de filtros para Adblocky</a>."
+    "message": "Su filtro debe seguir la <a>sintaxis de filtros para Community Adblock</a>."
   },
   "found_a_bug": {
-    "message": "¿Ha encontrado un error? ¿Quiere traducir Adblocky a su idioma? Por favor <a>rellene una petición aquí</a>."
+    "message": "¿Ha encontrado un error? ¿Quiere traducir Community Adblock a su idioma? Por favor <a>rellene una petición aquí</a>."
   },
   "general": {
     "message": "General"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblocky (versión de desarrollo)"
+    "message": "Community Adblock (versión de desarrollo)"
   },
   "notification_configure": {
     "message": "Configurar opciones de notificación"
@@ -116,7 +116,7 @@
     "message": "Pulse en el aviso para abrir todos los enlaces que contiene."
   },
   "options": {
-    "message": "Opciones de Adblocky"
+    "message": "Opciones de Community Adblock"
   },
   "options_short": {
     "message": "Opciones"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Descargar Adblocky"
+    "message": "Descargar Community Adblock"
   },
   "stats_share_message": {
-    "message": "He bloqueado $number$ anuncios y rastreadores gracias a Adblocky.",
+    "message": "He bloqueado $number$ anuncios y rastreadores gracias a Community Adblock.",
     "placeholders": {
       "number": {
         "content": "$1"

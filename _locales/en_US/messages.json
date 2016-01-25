@@ -46,7 +46,7 @@
     "message": "<strong>Disabled</strong> on this site"
   },
   "disabled_for_these_domains": {
-    "message": "Adblocky is disabled for the domains listed below. You can add a domain either via the Adblocky icon in the address bar or by typing the domain (not a URL) in the box and clicking the \"Add domain\" button."
+    "message": "Community Adblock is disabled for the domains listed below. You can add a domain either via the Community Adblock icon in the address bar or by typing the domain (not a URL) in the box and clicking the \"Add domain\" button."
   },
   "easy_create_filter": {
     "description": "Action in popup UI to add a filter which blocks an element selected from the current page",
@@ -67,10 +67,10 @@
     "message": "Filter lists"
   },
   "filter_must_follow_syntax": {
-    "message": "Your filter must follow the <a>Adblocky filter syntax</a>."
+    "message": "Your filter must follow the <a>Community Adblock filter syntax</a>."
   },
   "found_a_bug": {
-    "message": "Found a bug? Want to translate Adblocky into your language? Please <a>file a request here</a>."
+    "message": "Found a bug? Want to translate Community Adblock into your language? Please <a>file a request here</a>."
   },
   "general": {
     "description": "This is a tab heading.",
@@ -99,7 +99,7 @@
   },
   "name_devbuild": {
     "description": "Extension name to be shown for development builds. Note: this cannot be longer than 45 characters.",
-    "message": "Adblocky development build"
+    "message": "Community Adblock development build"
   },
   "notification_configure": {
     "message": "Configure notification settings"
@@ -114,7 +114,7 @@
     "message": "Click on the notification to open all links in it."
   },
   "options": {
-    "message": "Adblocky Options"
+    "message": "Community Adblock Options"
   },
   "options_short": {
     "description": "Link to the options page from the popup balloon.",
@@ -159,11 +159,11 @@
   },
   "stats_share_download": {
     "description": "Label for link to adblockplus.org that is attached when the user wants to share the stats on Facebook.",
-    "message": "Download Adblocky"
+    "message": "Download Community Adblock"
   },
   "stats_share_message": {
     "description": "This message will be posted to social networks if the user decides to share the stats.",
-    "message": "I blocked $number$ ads and trackers thanks to Adblocky.",
+    "message": "I blocked $number$ ads and trackers thanks to Community Adblock.",
     "placeholders": {
       "number": {
         "content": "$1"
@@ -193,7 +193,7 @@
     "message": "Whitelisted domains"
   },
   "unexpected_filter_list_header": {
-    "description": "Error message shown when the user attempts to add a custom filter that has the format of a header (e.g. \"[Adblocky 2.0]\") which are only allowed in filter lists",
+    "description": "Error message shown when the user attempts to add a custom filter that has the format of a header (e.g. \"[Community Adblock 2.0]\") which are only allowed in filter lists",
     "message": "Filter list headers aren't allowed here"
   },
   "invalid_css_selector": {

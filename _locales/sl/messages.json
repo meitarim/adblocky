@@ -39,7 +39,7 @@
     "message": "<strong>Omogočeno</strong> na tej strani"
   },
   "disabled_for_these_domains": {
-    "message": "Adblocky je onemogočeno področjih, navedenih spodaj. Lahko dodate domeno bodisi prek ikone Adblocky v naslovni vrstici ali jih vnesete domeno (ne URL) v polje in s klikom na gumb \"Dodaj domeno\"."
+    "message": "Community Adblock je onemogočeno področjih, navedenih spodaj. Lahko dodate domeno bodisi prek ikone Community Adblock v naslovni vrstici ali jih vnesete domeno (ne URL) v polje in s klikom na gumb \"Dodaj domeno\"."
   },
   "easy_create_filter": {
     "message": "Blokiraj element"
@@ -57,10 +57,10 @@
     "message": "Seznami filtrov"
   },
   "filter_must_follow_syntax": {
-    "message": "Vaš filter je treba slediti <a>Adblocky filter syntax</a>."
+    "message": "Vaš filter je treba slediti <a>Community Adblock filter syntax</a>."
   },
   "found_a_bug": {
-    "message": "Ste našli hrošča? Želite prevesti Adblocky v vaš jezik? Prosimo <a>oddajte zahtevo tukaj</a>."
+    "message": "Ste našli hrošča? Želite prevesti Community Adblock v vaš jezik? Prosimo <a>oddajte zahtevo tukaj</a>."
   },
   "general": {
     "message": "Splošno"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblocky razvojna različica"
+    "message": "Community Adblock razvojna različica"
   },
   "notification_with_buttons": {
     "message": "Klinite \"OK\" da odprete vse povezave v tem obvestilu."
@@ -110,7 +110,7 @@
     "message": "Kliknite na obvestilo, da odprete vse povezeave v njem."
   },
   "options": {
-    "message": "Adblocky možnosti"
+    "message": "Community Adblock možnosti"
   },
   "options_short": {
     "message": "Možnosti"
@@ -149,10 +149,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Prenesi Adblocky"
+    "message": "Prenesi Community Adblock"
   },
   "stats_share_message": {
-    "message": "Blokiral sem $number$ oglasov in sledilcev z Adblocky.",
+    "message": "Blokiral sem $number$ oglasov in sledilcev z Community Adblock.",
     "placeholders": {
       "number": {
         "content": "$1"

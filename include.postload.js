@@ -1,18 +1,18 @@
 /*
- * This file is part of Adblocky <https://adblockplus.org/>,
+ * This file is part of Community Adblock <https://adblockplus.org/>,
  * Copyright (C) 2006-2015 Eyeo GmbH
  *
- * Adblocky is free software: you can redistribute it and/or modify
+ * Community Adblock is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 3 as
  * published by the Free Software Foundation.
  *
- * Adblocky is distributed in the hope that it will be useful,
+ * Community Adblock is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with Adblocky.  If not, see <http://www.gnu.org/licenses/>.
+ * along with Community Adblock.  If not, see <http://www.gnu.org/licenses/>.
  */
 
 // Click-to-hide stuff

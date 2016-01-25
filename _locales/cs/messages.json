@@ -39,7 +39,7 @@
     "message": "<strong>Zakázáno</strong> na této stránce"
   },
   "disabled_for_these_domains": {
-    "message": "Adblocky je zakázán pro níže uvedené domény. Doménu můžete přidat buď pomocí ikony Adblocky v adresním řádku, nebo napsáním domény (ne URL) do pole a kliknutím na tlačítko \"Přidat doménu\"."
+    "message": "Community Adblock je zakázán pro níže uvedené domény. Doménu můžete přidat buď pomocí ikony Community Adblock v adresním řádku, nebo napsáním domény (ne URL) do pole a kliknutím na tlačítko \"Přidat doménu\"."
   },
   "easy_create_filter": {
     "message": "Blokovat prvek"
@@ -57,10 +57,10 @@
     "message": "Seznamy filtrů"
   },
   "filter_must_follow_syntax": {
-    "message": "Váš filtr musí odpovídat <a>syntaxi filtru Adblocky</a>."
+    "message": "Váš filtr musí odpovídat <a>syntaxi filtru Community Adblock</a>."
   },
   "found_a_bug": {
-    "message": "Našli jste chybu? Chcete přeložit Adblocky do svého jazyka? <a>Zde vyplňte žádost</a>, prosím."
+    "message": "Našli jste chybu? Chcete přeložit Community Adblock do svého jazyka? <a>Zde vyplňte žádost</a>, prosím."
   },
   "general": {
     "message": "Obecné"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Vývojové sestavení Adblocky"
+    "message": "Vývojové sestavení Community Adblock"
   },
   "notification_configure": {
     "message": "Konfigurovat nastavení oznámení"
@@ -116,7 +116,7 @@
     "message": "Klepněte na oznámení pro otevření všech obsažených odkazů."
   },
   "options": {
-    "message": "Možnosti Adblocky"
+    "message": "Možnosti Community Adblock"
   },
   "options_short": {
     "message": "Možnosti"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Stáhnout Adblocky"
+    "message": "Stáhnout Community Adblock"
   },
   "stats_share_message": {
-    "message": "Zablokoval jsem $number$ reklam a slídilů díky Adblocky.",
+    "message": "Zablokoval jsem $number$ reklam a slídilů díky Community Adblock.",
     "placeholders": {
       "number": {
         "content": "$1"

@@ -39,7 +39,7 @@
     "message": "इस साइट पर <strong>इस्तेमाल न करे</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "निम्नलिखित डोमिन पर Adblocky का इस्ताल नहीं किआ जा रहा। आप ऄड्रेस बार मै Adblocky आइकॉन को क्लिक कर अथवा डिब्बी मे डोमेन (यूआरएल नहीं) टाइप कर, फिर \"ऐड डोमेन\" बटन दबा कर, नए अपवाद बना सकते है।"
+    "message": "निम्नलिखित डोमिन पर Community Adblock का इस्ताल नहीं किआ जा रहा। आप ऄड्रेस बार मै Community Adblock आइकॉन को क्लिक कर अथवा डिब्बी मे डोमेन (यूआरएल नहीं) टाइप कर, फिर \"ऐड डोमेन\" बटन दबा कर, नए अपवाद बना सकते है।"
   },
   "easy_create_filter": {
     "message": "तत्वों को प्रतिबंधित करें"
@@ -57,10 +57,10 @@
     "message": "फिल्टरों कि सूची "
   },
   "filter_must_follow_syntax": {
-    "message": "आपके फ़िल्टर को <a>Adblocky फ़िल्टर सिंटैक्स</a> का पालन करना होगा।"
+    "message": "आपके फ़िल्टर को <a>Community Adblock फ़िल्टर सिंटैक्स</a> का पालन करना होगा।"
   },
   "found_a_bug": {
-    "message": "यधपि आपको किसी दोष कि जानकारी दिनी हो या Adblocky का अनुवाद करना हो तो कृपया <a>यहाँ एक गुजारिश करे</a>"
+    "message": "यधपि आपको किसी दोष कि जानकारी दिनी हो या Community Adblock का अनुवाद करना हो तो कृपया <a>यहाँ एक गुजारिश करे</a>"
   },
   "general": {
     "message": "सामान्य "
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblocky विकास संस्करण"
+    "message": "Community Adblock विकास संस्करण"
   },
   "notification_with_buttons": {
     "message": "इस अधिसूचना के सारे लिंक खोलने के लिए \"ok\" बटन दबाये"
@@ -110,7 +110,7 @@
     "message": "सभी लिंक को खोलने के लिए अधिसूचना पर क्लिक करें"
   },
   "options": {
-    "message": "Adblocky विकल्प"
+    "message": "Community Adblock विकल्प"
   },
   "options_short": {
     "message": "विकल्प "
@@ -149,10 +149,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Adblocky डाऊनलोड करें "
+    "message": "Community Adblock डाऊनलोड करें "
   },
   "stats_share_message": {
-    "message": "मैंने $number$ विज्ञापनों और ट्रैकरों को ब्लाक किआ, Adblocky का धन्यवाद्।",
+    "message": "मैंने $number$ विज्ञापनों और ट्रैकरों को ब्लाक किआ, Community Adblock का धन्यवाद्।",
     "placeholders": {
       "number": {
         "content": "$1"

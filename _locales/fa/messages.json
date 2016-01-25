@@ -39,7 +39,7 @@
     "message": "<strong>غیرفعال باشد</strong> توی این سایت"
   },
   "disabled_for_these_domains": {
-    "message": "این افزونه در سایت های زیر غیرفعاله. برای اضافه کردن یک سایت می توانید روی آیکون Adblocky در نوارآدرس کلیک کنید یا دامنه اون سایت (نه آدرس دقیق) را در این جعبه بنویسید و دکمه «اضافه کردن سایت» را بزنید."
+    "message": "این افزونه در سایت های زیر غیرفعاله. برای اضافه کردن یک سایت می توانید روی آیکون Community Adblock در نوارآدرس کلیک کنید یا دامنه اون سایت (نه آدرس دقیق) را در این جعبه بنویسید و دکمه «اضافه کردن سایت» را بزنید."
   },
   "easy_create_filter": {
     "message": "مسدود کردن این عنصر"
@@ -57,10 +57,10 @@
     "message": "لیست فیلتر"
   },
   "filter_must_follow_syntax": {
-    "message": "فیلترهایی که می‌نویسید باید از <a> قواعد فیلترنویسی Adblocky</a> پیروی کند."
+    "message": "فیلترهایی که می‌نویسید باید از <a> قواعد فیلترنویسی Community Adblock</a> پیروی کند."
   },
   "found_a_bug": {
-    "message": "باگ پیدا کردید؟ مایلید Adblocky را به زبان خودتان ترجمه کنید؟ <a>درخواستتان را اینجا مطرح کنید</a>."
+    "message": "باگ پیدا کردید؟ مایلید Community Adblock را به زبان خودتان ترجمه کنید؟ <a>درخواستتان را اینجا مطرح کنید</a>."
   },
   "general": {
     "message": "صفحه اصلی"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "توسعه ساخت Adblocky"
+    "message": "توسعه ساخت Community Adblock"
   },
   "notification_configure": {
     "message": "تنظیمات هشدار ها"
@@ -116,7 +116,7 @@
     "message": "برای باز شدن همه لینک های داخلش ، روی هشدار کلیک کنید."
   },
   "options": {
-    "message": "تنظیمات Adblocky"
+    "message": "تنظیمات Community Adblock"
   },
   "options_short": {
     "message": "تنظیمات"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "دانلود Adblocky"
+    "message": "دانلود Community Adblock"
   },
   "stats_share_message": {
-    "message": "به واسطه Adblocky من $number$ تبلیغ و ردگیر را مسدود کردم.",
+    "message": "به واسطه Community Adblock من $number$ تبلیغ و ردگیر را مسدود کردم.",
     "placeholders": {
       "number": {
         "content": "$1"

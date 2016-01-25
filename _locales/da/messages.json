@@ -39,7 +39,7 @@
     "message": "<strong>Deaktiveret</strong> på dette websted"
   },
   "disabled_for_these_domains": {
-    "message": "Adblocky er deaktiveret for de domæner, der er angivet nedenfor. Du kan tilføje et domæne enten via ikonet Adblocky i adresselinjen eller ved at skrive domæne (ikke en URL) i boksen og klikke på knappen \"Tilføj domæne\"."
+    "message": "Community Adblock er deaktiveret for de domæner, der er angivet nedenfor. Du kan tilføje et domæne enten via ikonet Community Adblock i adresselinjen eller ved at skrive domæne (ikke en URL) i boksen og klikke på knappen \"Tilføj domæne\"."
   },
   "easy_create_filter": {
     "message": "Blokér element"
@@ -57,10 +57,10 @@
     "message": "Filterlister"
   },
   "filter_must_follow_syntax": {
-    "message": "Dit filter skal følge <a>Adblocky' filtersyntaks</a>."
+    "message": "Dit filter skal følge <a>Community Adblock' filtersyntaks</a>."
   },
   "found_a_bug": {
-    "message": "Har du fundet en fejl? Vil du oversætte Adblocky til dit sprog? Send <a>venligst din anmodning her</a>."
+    "message": "Har du fundet en fejl? Vil du oversætte Community Adblock til dit sprog? Send <a>venligst din anmodning her</a>."
   },
   "general": {
     "message": "Generelt"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblocky-udviklingsversion"
+    "message": "Community Adblock-udviklingsversion"
   },
   "notification_configure": {
     "message": "Konfigurer underretningsindstillinger"
@@ -116,7 +116,7 @@
     "message": "Klik på meddelelsen for at åbne alle genveje i den."
   },
   "options": {
-    "message": "Adblocky indstillinger"
+    "message": "Community Adblock indstillinger"
   },
   "options_short": {
     "message": "Indstillinger"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Download Adblocky"
+    "message": "Download Community Adblock"
   },
   "stats_share_message": {
-    "message": "Jeg har blokeret $number$ annoncer og sporingstjenester takket være Adblocky.",
+    "message": "Jeg har blokeret $number$ annoncer og sporingstjenester takket være Community Adblock.",
     "placeholders": {
       "number": {
         "content": "$1"

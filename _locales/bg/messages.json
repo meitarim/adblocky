@@ -39,7 +39,7 @@
     "message": "<strong>Забранено</strong> за сайта"
   },
   "disabled_for_these_domains": {
-    "message": "Adblocky е забранен за домейните от долния списък. Добавянето на домейн става или чрез иконата на Adblocky в адресната лента или чрез въвеждане на домейна (не на целия URL) в полето и натискане на бутон „Добави домейна“."
+    "message": "Community Adblock е забранен за домейните от долния списък. Добавянето на домейн става или чрез иконата на Community Adblock в адресната лента или чрез въвеждане на домейна (не на целия URL) в полето и натискане на бутон „Добави домейна“."
   },
   "easy_create_filter": {
     "message": "Блокирай елемента"
@@ -57,10 +57,10 @@
     "message": "Списък с филтри"
   },
   "filter_must_follow_syntax": {
-    "message": "Вашият филтър трябва да спазва <a>синтаксиса за филтри на Adblocky</a>."
+    "message": "Вашият филтър трябва да спазва <a>синтаксиса за филтри на Community Adblock</a>."
   },
   "found_a_bug": {
-    "message": "Открихте грешка? Искате да преведете Adblocky на вашия език? Моля, <a>попълнете тази заявка</a>."
+    "message": "Открихте грешка? Искате да преведете Community Adblock на вашия език? Моля, <a>попълнете тази заявка</a>."
   },
   "general": {
     "message": "Общи"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Версия за разработчици на Adblocky"
+    "message": "Версия за разработчици на Community Adblock"
   },
   "notification_configure": {
     "message": "Конфигуриране на настройките на уведомяване"
@@ -116,7 +116,7 @@
     "message": "Щракнете по уведомяване за отваряне на съдържащите се препратки."
   },
   "options": {
-    "message": "Настройки на Adblocky"
+    "message": "Настройки на Community Adblock"
   },
   "options_short": {
     "message": "Настройки"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Изтегли Adblocky"
+    "message": "Изтегли Community Adblock"
   },
   "stats_share_message": {
-    "message": "С Adblocky блокирах $number$ реклами и проследявания.",
+    "message": "С Community Adblock блокирах $number$ реклами и проследявания.",
     "placeholders": {
       "number": {
         "content": "$1"

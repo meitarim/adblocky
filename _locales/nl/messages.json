@@ -39,7 +39,7 @@
     "message": "<strong>Uitgeschakeld</strong> op deze site"
   },
   "disabled_for_these_domains": {
-    "message": "Adblocky is uitgeschakeld voor de hieronder vermelde domeinen. U kunt een domein toevoegen via het Adblocky logo in de adresbalk, of door het domein (geen URL) in het vak te typen en te klikken op \"Domein toevoegen\"."
+    "message": "Community Adblock is uitgeschakeld voor de hieronder vermelde domeinen. U kunt een domein toevoegen via het Community Adblock logo in de adresbalk, of door het domein (geen URL) in het vak te typen en te klikken op \"Domein toevoegen\"."
   },
   "easy_create_filter": {
     "message": "Element blokkeren"
@@ -57,10 +57,10 @@
     "message": "Filterlijsten"
   },
   "filter_must_follow_syntax": {
-    "message": "Je filter moet de <a>Adblocky filter syntax</a> volgen."
+    "message": "Je filter moet de <a>Community Adblock filter syntax</a> volgen."
   },
   "found_a_bug": {
-    "message": "Heb je een bug gevonden? Wil je helpen Adblocky te vertalen naar je eigen taal? Dien <a>hier een verzoek in</a>."
+    "message": "Heb je een bug gevonden? Wil je helpen Community Adblock te vertalen naar je eigen taal? Dien <a>hier een verzoek in</a>."
   },
   "general": {
     "message": "Algemeen"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblocky experimentele versie"
+    "message": "Community Adblock experimentele versie"
   },
   "notification_configure": {
     "message": "Configureer notificatie instellingen"
@@ -116,7 +116,7 @@
     "message": "Klik op de melding om alle links erin te openen."
   },
   "options": {
-    "message": "Adblocky opties"
+    "message": "Community Adblock opties"
   },
   "options_short": {
     "message": "Opties"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Adblocky downloaden"
+    "message": "Community Adblock downloaden"
   },
   "stats_share_message": {
-    "message": "Ik heb $number$ advertenties en trackers geblokkeerd dankzij Adblocky.",
+    "message": "Ik heb $number$ advertenties en trackers geblokkeerd dankzij Community Adblock.",
     "placeholders": {
       "number": {
         "content": "$1"

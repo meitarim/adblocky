@@ -39,7 +39,7 @@
     "message": "<strong>Keelatud</strong> sellel saidil"
   },
   "disabled_for_these_domains": {
-    "message": "Adblocky on loetletud domeenidel keelatud. Domeene saate lisada Adblocky ikoonil aadressiriba kõrval või kirjutades domeeni nime (mitte URL-i) lahtrisse ja klõpsates \"Lisa domeen\" nuppu."
+    "message": "Community Adblock on loetletud domeenidel keelatud. Domeene saate lisada Community Adblock ikoonil aadressiriba kõrval või kirjutades domeeni nime (mitte URL-i) lahtrisse ja klõpsates \"Lisa domeen\" nuppu."
   },
   "easy_create_filter": {
     "message": "Blokeeri element"
@@ -57,10 +57,10 @@
     "message": "Filtrite nimekirjad"
   },
   "filter_must_follow_syntax": {
-    "message": "Teie filter peab järgima <a>Adblocky filtri süntaksit</a>."
+    "message": "Teie filter peab järgima <a>Community Adblock filtri süntaksit</a>."
   },
   "found_a_bug": {
-    "message": "Leidsid vea? Tahad tõlkida Adblocky'i enda keelde? <a>Esita veateade</a>."
+    "message": "Leidsid vea? Tahad tõlkida Community Adblock'i enda keelde? <a>Esita veateade</a>."
   },
   "general": {
     "message": "Üldine"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblocky arendusväljalase"
+    "message": "Community Adblock arendusväljalase"
   },
   "notification_configure": {
     "message": "Muuda teavitusi"
@@ -116,7 +116,7 @@
     "message": "Klõpsake teatel, et avada kõik sisalduvad lingid."
   },
   "options": {
-    "message": "Adblocky valikud"
+    "message": "Community Adblock valikud"
   },
   "options_short": {
     "message": "Valikud"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Lae Adblocky"
+    "message": "Lae Community Adblock"
   },
   "stats_share_message": {
-    "message": "Olen tänu Adblockyile blokeerinud $number$ reklaami ja jälgimisküsist.",
+    "message": "Olen tänu Community Adblockile blokeerinud $number$ reklaami ja jälgimisküsist.",
     "placeholders": {
       "number": {
         "content": "$1"

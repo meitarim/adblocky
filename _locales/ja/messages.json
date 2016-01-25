@@ -39,7 +39,7 @@
     "message": "このサイトで<strong>無効</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Adblocky を以下のドメインで無効にします。アドレスバーの Adblocky アイコン、または下の欄にドメイン（URL ではない）を入力し「ドメインを追加」ボタンで追加できます。"
+    "message": "Community Adblock を以下のドメインで無効にします。アドレスバーの Community Adblock アイコン、または下の欄にドメイン（URL ではない）を入力し「ドメインを追加」ボタンで追加できます。"
   },
   "easy_create_filter": {
     "message": "要素をブロック"
@@ -57,10 +57,10 @@
     "message": "フィルタリスト"
   },
   "filter_must_follow_syntax": {
-    "message": "<a>Adblocky フィルタの書式</a> に準拠したフィルタを記述しなければなりません。"
+    "message": "<a>Community Adblock フィルタの書式</a> に準拠したフィルタを記述しなければなりません。"
   },
   "found_a_bug": {
-    "message": "バグを発見? Adblocky を翻訳したい? その場合は <a>ここよりリクエスト</a> 願います。"
+    "message": "バグを発見? Community Adblock を翻訳したい? その場合は <a>ここよりリクエスト</a> 願います。"
   },
   "general": {
     "message": "一般"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblocky 開発版"
+    "message": "Community Adblock 開発版"
   },
   "notification_configure": {
     "message": "通知について設定する"
@@ -116,7 +116,7 @@
     "message": "通知内すべてのリンクを開くにはここをクリックしてください。"
   },
   "options": {
-    "message": "Adblocky オプション"
+    "message": "Community Adblock オプション"
   },
   "options_short": {
     "message": "オプション"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Adblocky をダウンロード"
+    "message": "Community Adblock をダウンロード"
   },
   "stats_share_message": {
-    "message": "Adblocky のおかげで累計 $number$ 箇所の広告と追跡がブロックされました。",
+    "message": "Community Adblock のおかげで累計 $number$ 箇所の広告と追跡がブロックされました。",
     "placeholders": {
       "number": {
         "content": "$1"

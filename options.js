@@ -1,18 +1,18 @@
 /*
- * This file is part of Adblocky <https://adblockplus.org/>,
+ * This file is part of Community Adblock <https://adblockplus.org/>,
  * Copyright (C) 2006-2015 Eyeo GmbH
  *
- * Adblocky is free software: you can redistribute it and/or modify
+ * Community Adblock is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 3 as
  * published by the Free Software Foundation.
  *
- * Adblocky is distributed in the hope that it will be useful,
+ * Community Adblock is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with Adblocky.  If not, see <http://www.gnu.org/licenses/>.
+ * along with Community Adblock.  If not, see <http://www.gnu.org/licenses/>.
  */
 
 var backgroundPage = ext.backgroundPage.getWindow();
@@ -44,7 +44,7 @@ var NotificationStorage = require("notification").Notification;
 // Loads options from localStorage and sets UI elements accordingly
 function loadOptions()
 {
-  // Set page title to i18n version of "Adblocky Options"
+  // Set page title to i18n version of "Community Adblock Options"
   document.title = i18n.getMessage("options");
 
   // Set links
