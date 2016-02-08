@@ -24,13 +24,12 @@
   var Prefs = require("prefs").Prefs;
   
   var currentPage;
-  var shareURL = "https://adblockplus.org/";
+  var shareURL = "https://wwww.communityadblock.com/";
   
   var messageMark = {};
   var shareLinks = {
-    facebook: ["https://www.facebook.com/dialog/feed", {
-      app_id: "475542399197328",
-      link: shareURL,
+    facebook: ["https://www.facebook.com/sharer/sharer.php", {
+      u: shareURL,
       redirect_uri: "https://www.facebook.com/",
       ref: "adcounter",
       name: messageMark,
@@ -47,7 +46,7 @@
     twitter: ["https://twitter.com/intent/tweet", {
       text: messageMark,
       url: shareURL,
-      via: "AdblockPlus"
+      via: "CommunityAdblock"
     }]
   };
   
