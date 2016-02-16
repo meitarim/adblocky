@@ -27,7 +27,7 @@
     "message": "請在此訊息關閉後點選網頁上的元素。"
   },
   "description_chrome": {
-    "message": "被超過50萬人次使用，Chrome瀏覽器上免費的廣告過濾器，阻止所有煩人的廣告，惡意軟件和追踪。"
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "被超過50萬人次使用，Opera瀏覽器上免費的廣告過濾器，阻止所有煩人的廣告，惡意軟件和追踪。"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock 開發版"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "設置通知設定"

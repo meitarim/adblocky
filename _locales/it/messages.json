@@ -27,7 +27,7 @@
     "message": "Dopo la chiusura di questo pop-up, cliccate (o clic destro) su un elemento sulla pagina."
   },
   "description_chrome": {
-    "message": "Estensione gratuita per Chrome, usata da oltre 50 milioni persone, blocca TUTTE le pubblicità fastidiose, malware e tracking."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Estensione gratuita per Opera, usata da oltre 50 milioni persone, blocca TUTTE le pubblicità fastidiose, malware e tracking."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Versione di sviluppo di Community Adblock"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Configura le impostazioni di notifica"

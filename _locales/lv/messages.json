@@ -27,7 +27,7 @@
     "message": "Pēc šī uznirstošā loga aizvēršanas, noklikšķiniet (vai noklikšķiniet ar labo pogu) uz elementa šajā lapā."
   },
   "description_chrome": {
-    "message": "Izmanto vairāk kā 50 miljoni cilvēku. Bezmaksas bloķētājs Chrome, kas bloķē kaitinošās reklāmas, malware un izsekošanas programmas."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Izmanto vairāk kā 50 miljoni cilvēku. Bezmaksas bloķētājs Opera, kas bloķē kaitinošās reklāmas, malware un izsekošanas programmas."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock attīstības programma"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Konfigurēt paziņojuma iestatījumus"

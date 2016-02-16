@@ -27,7 +27,7 @@
     "message": "Setelah menutup tetingkap ini, klik (atau klik butang kanan) pada sesuatu unsur atas laman."
   },
   "description_chrome": {
-    "message": "Lebih 50 juta menggunakannya, penyekat iklan untuk Chrome yang boleh blok semua iklan menjengkelkan, malware dan penjejak."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Lebih 50 juta menggunakannya, penyekat iklan untuk Opera yang boleh blok semua iklan menjengkelkan, malware dan penjejak."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Versi pemaju Community Adblock"
+    "message": "Community Adblock"
   },
   "notification_with_buttons": {
     "message": "Klik 'OK' untuk membuka semua pautan dalam notifikasi ini."

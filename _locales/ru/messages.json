@@ -27,7 +27,7 @@
     "message": "После закрытия этого всплывающего окна, щёлкните на элементе левой или правой кнопкой мыши."
   },
   "description_chrome": {
-    "message": "Свыше 50 млн человек используют бесплатный блокировщик для Chrome, убирающий ВСЮ назойливую рекламу, вредоносное и шпионское ПО."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Свыше 50 млн человек используют бесплатный блокировщик для Opera, убирающий ВСЮ назойливую рекламу, вредоносное и шпионское ПО."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock (тестовая сборка)"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Настроить параметры уведомлений"

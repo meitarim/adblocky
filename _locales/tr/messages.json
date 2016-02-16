@@ -27,7 +27,7 @@
     "message": "Bu pencere kapandığında, engelleyeceğiniz ögeye tıklayın (veya sağ tıklayın)."
   },
   "description_chrome": {
-    "message": "50 milyondan fazla kişinin kullandığı, Tüm reklamları ve zararlıları engelleyen Chrome için bedava bir reklam engelleyicisidir."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "50 milyondan fazla kişinin kullandığı, Tüm reklamları ve zararlıları engelleyen, Opera için bedava bir reklam engelleyicisidir."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock geliştirme sürümü"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Bildirim ayarlarını yapılandırma"

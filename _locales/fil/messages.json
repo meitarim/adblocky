@@ -27,7 +27,7 @@
     "message": "Pagkatapos isara itong pop-up, pindutin ang kaliwang mouse button (o kanang mouse button) ang element ng pahinang ito."
   },
   "description_chrome": {
-    "message": "Ginagamit ng halos 50 milyong tao, ito ay isang libreng ad blocker para sa Chrome na nag-aalis ng di kanais-nais na ads."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Ginagamit ng halos 50 milyong tao, ito ay isang libreng ad blocker para sa Opera na nag-aalis ng di kanais-nais na ads."
@@ -90,7 +90,7 @@
     }
   },
   "name_devbuild": {
-    "message": "pagbuo ng Community Adblock"
+    "message": "Community Adblock"
   },
   "notification_with_buttons": {
     "message": "Pindutin ang 'OK' para mabuksan ang lahat ng links sa notifikasyon na ito."

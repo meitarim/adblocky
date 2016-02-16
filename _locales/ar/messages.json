@@ -27,7 +27,7 @@
     "message": "بعد إغلاق هذه النافذة، اضغط (أو اضغط بالزر الأيمن) على أحد العناصر في الصفحة."
   },
   "description_chrome": {
-    "message": "يزيد مستخدموه على 50 مليوناً، حاجب إعلانات مجاني للمتصفح كروم Chrome، بحجب كل الاعلانات المزعجة و البرامج الضارة و المتتبّعات."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "يزيد مستخدموه على 50 مليوناً، حاجب إعلانات مجاني للمتصفح أوبرا Opera، بحجب كل الاعلانات المزعجة و البرامج الضارة و المتتبّعات."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "رقم نسخة تطوير آدبلوك بلس"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "ضبط إعدادات الإشعارات"

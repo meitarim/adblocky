@@ -27,7 +27,7 @@
     "message": "After closing this popup, click (or right-click) an element on the page."
   },
   "description_chrome": {
-    "message": "Used by over 50 million people, a free ad blocker for Chrome that blocks ALL annoying ads, malware and tracking."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Used by over 50 million people, a free ad blocker for Opera that blocks ALL annoying ads, malware and tracking."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock development build"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Configure notification settings"

@@ -27,7 +27,7 @@
     "message": "Після закриття цього спливаючого вікна клацніть по елементу сторінки лівою чи правою кнопкою миші."
   },
   "description_chrome": {
-    "message": "Понад 50 млн людей використовують безкоштовний блокувальник для Chrome,що прибирає ВСЮ нав’язливу рекламу, шкідливе та шпигунське ПЗ"
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Понад 50 млн людей використовують безкоштовний блокувальник для Opera, що прибирає ВСЮ нав’язливу рекламу, шкідливе та шпигунське ПЗ"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock (тестова збiрка)"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Налаштувати параметри повідомлень"

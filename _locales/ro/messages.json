@@ -27,7 +27,7 @@
     "message": "După închiderea acestui pop-up, clic (sau clic-dreapta) pe un element de pe pagină."
   },
   "description_chrome": {
-    "message": "Extensie gratuită pentru Chrome, folosită de peste 50 milioane persoane, blochează TOATE reclamele enervante, malware şi tracking."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Extensie gratuită pentru Opera, folosită de peste 50 milioane persoane, blochează TOATE reclamele enervante, malware şi tracking."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Versiune de test Community Adblock"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Configuraţi setările de notificare"

@@ -27,7 +27,7 @@
     "message": "Након што затворите овај искачући прозор, притисните левим или десним тастером миша на елемент на овој страници."
   },
   "description_chrome": {
-    "message": "Преко 50 милиона људи користи бесплатни блокатор за Chrome који блокира СВЕ досадне огласе, злонамерне и шпијунске програме."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Преко 50 милиона људи користи бесплатни блокатор за Oper-у који блокира СВЕ досадне огласе, злонамерне и шпијунске програме."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Развојна верзија Community Adblock-а"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Подеси поставке обавештавања"

@@ -27,7 +27,7 @@
     "message": "Após fechar este popup, clique (ou clique com o botão direito) num elemento na página."
   },
   "description_chrome": {
-    "message": "Usada por 50 milhões de pessoas, o bloqueador de anúncios para o Chrome que bloqueia os anúncios irritantes, malware e rastreadores."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Usada por 50 milhões de pessoas, o bloqueador de anúncios para o Opera que bloqueia os anúncios irritantes, malware e rastreadores."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Versão de desenvolvimento do Community Adblock"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Configurar definições de notificação"

@@ -27,7 +27,7 @@
     "message": "baada ya kufunga dukizi hii , click (au haki-click ) kipengele kwenye ukurasa huu."
   },
   "description_chrome": {
-    "message": "Kutumiwa na zaidi ya milioni 50 watu , bure tangazo blocker kwa Chrome kwamba vitalu ALL annoying matangazo , zisizo na kufuatilia."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Kutumiwa na zaidi ya milioni 50 watu , bure tangazo blocker kwa Opera kwamba vitalu ALL annoying matangazo , zisizo na kufuatilia."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock pamoja na maendeleo ya kujenga"
+    "message": "Community Adblock"
   },
   "notification_with_buttons": {
     "message": "Bonyeza 'OK' kufungua viungo vyote katika taarifa hii."

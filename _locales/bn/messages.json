@@ -27,7 +27,7 @@
     "message": "এই পপআপ বন্ধ করার পরে, পাতার (অথবা রাইট-ক্লিক করে) একটি উপাদানে ক্লিক করুন।"
   },
   "description_chrome": {
-    "message": "৫ কোটি মানুষ দ্বারা ব্যবহৃত, Chrome জন্য একটি ফ্রি বিজ্ঞাপন রোধক যা সব বিরক্তিকর বিজ্ঞাপন, ম্যালওয়্যার ও ট্র্যাকিংকে বাধা দেয়।"
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "৫ কোটি মানুষ দ্বারা ব্যবহৃত, Opera জন্য একটি ফ্রি বিজ্ঞাপন রোধক যা সব বিরক্তিকর বিজ্ঞাপন, ম্যালওয়্যার ও ট্র্যাকিংকে বাধা দেয়।"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock উন্নয়ন গঠন"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "বিজ্ঞপ্তি সেটিংস কনফিগার করুন"

@@ -27,7 +27,7 @@
     "message": "Po zaključku tega popup kliknite (ali desni klik) element na strani."
   },
   "description_chrome": {
-    "message": "Uporablja ga več kot 50 milijonov ljudi, brezplačno ad blocker za Chrome, ki blokira VSE nadležno oglasi, malware in sledenje."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Uporablja ga več kot 50 milijonov ljudi, brezplačno ad blocker za Opera, ki blokira VSE nadležno oglasi, malware in sledenje."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock razvojna različica"
+    "message": "Community Adblock"
   },
   "notification_with_buttons": {
     "message": "Klinite \"OK\" da odprete vse povezave v tem obvestilu."

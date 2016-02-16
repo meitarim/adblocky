@@ -27,7 +27,7 @@
     "message": "לאחר סגירת חלון זה, לחצו (אפשרי לחיצה-ימנית) על רכיב בעמוד זה."
   },
   "description_chrome": {
-    "message": "בשימוש על ידי יותר מ-50 מיליון אנשים, חוסם מודעות חינמי עבור Chrome שחוסם את כל הפרסומות המעצבנות, התוכנות הזדוניות ותוכנות המעקב."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "בשימוש על ידי יותר מ-50 מיליון אנשים, חוסם מודעות חינמי עבור Opera שחוסם את כל הפרסומות המעצבנות, התוכנות הזדוניות ותוכנות המעקב."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "גרסאות פיתוח Community Adblock"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "קביעת תצורת הגדרות ההתראה"

@@ -27,7 +27,7 @@
     "message": "Tras cerrar este menú desplegable, pulse (o con botón derecho) en un elemento de la página."
   },
   "description_chrome": {
-    "message": "Un bloqueador gratuito para Chrome de TODA la publicidad molesta, el malware y el tracking, con más de 50 millones de usuarios."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Un bloqueador gratuito para Opera de TODA la publicidad molesta, el malware y el tracking, con más de 50 millones de usuarios."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock (versión de desarrollo)"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Configurar opciones de notificación"

@@ -27,7 +27,7 @@
     "message": "След затваряне на изскачащия прозорец, щракнете (може и с десния бутон) върху елемент в страницата."
   },
   "description_chrome": {
-    "message": "Безплатен инструмент за Chrome, ползван от над 50 милиона души, премахващ ВСИЧКИ досадни, зловредни и проследяващи елементи."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Безплатен инструмент за Opera, ползван от над 50 милиона души, премахващ ВСИЧКИ досадни, зловредни и проследяващи елементи."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Версия за разработчици на Community Adblock"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Конфигуриране на настройките на уведомяване"

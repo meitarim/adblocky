@@ -27,7 +27,7 @@
     "message": "Užvėrus šį iššokantį langą, paspauskite (arba dešiniu mygtuku) ant elemento esančio puslapyje."
   },
   "description_chrome": {
-    "message": "Virš 50 milijonų vartotojų turintis nemokamas „Chrome“ plėtinys, blokuojantis VISAS įkyrias reklamas, žalingas programas ir sekimą."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Virš 50-ies milijonų žmonių naudojamas nemokamas „Opera“ plėtinys, blokuojantis VISAS įkyrias reklamas, žalingas programas ir sekimą."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock vystomasis leidimas"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Konfigūruoti pranešimų nustatymus"

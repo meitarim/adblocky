@@ -27,7 +27,7 @@
     "message": "Pärast hüpikakna sulgemist klõpsake (paremklõpsake) mõnel lehe elemendil"
   },
   "description_chrome": {
-    "message": "Kasutab üle 50 miljoni inimese, tasuta reklaami blokeerija Chrome, mis blokeerib KÕIK tüütuid reklaame, pahavara ja jälgimist."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Kasutab üle 50 miljoni inimese, tasuta reklaami blokeerija Opera, mis blokeerib KÕIK tüütuid reklaame, pahavara ja jälgimist."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock arendusväljalase"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Muuda teavitusi"

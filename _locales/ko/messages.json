@@ -27,7 +27,7 @@
     "message": "이 팝업을 닫은 후 웹 페이지에서 HTML 요소를 클릭하십시오."
   },
   "description_chrome": {
-    "message": "50만 명 이상의 사람들이 모든 성가신 광고, 멀웨어, 사용자 추적을 차단하는 구글 크롬용 무료 광고 차단 프로그램를 사용하고 있습니다."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "만 50 명 이상, Opera 에 대한 무료 광고 차단에 의해 사용됩니다."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock 개발 빌드"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "알림 설정 구성"

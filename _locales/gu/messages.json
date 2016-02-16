@@ -27,7 +27,7 @@
     "message": "આ પોપ અપ બંધ કરીને, પેજ પરનાં એલિમેન્ટ પર ક્લિક (અથવા રાઈટ ક્લિક) કરો."
   },
   "description_chrome": {
-    "message": "૫૦ લાખથી વધું યુઝર દ્વારા વપરાતું, Chrome અણગમતાં એડ્સ, માલવેર અને ટ્રેકિંગ બ્લોક કરવા માટેનું એક ફ્રી એડ બ્લોકર."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "૫૦ લાખથી વધું યુઝર દ્વારા વપરાતું, Opera અણગમતાં એડ્સ, માલવેર અને ટ્રેકિંગ બ્લોક કરવા માટેનું એક ફ્રી એડ બ્લોકર."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock ડેવલોપમેન્ટ બીલ્ડ"
+    "message": "Community Adblock"
   },
   "notification_with_buttons": {
     "message": "આ નોટીફીકેશનમાં બધી લીંક ખોલવા 'ઓકે' પર ક્લિક કરો."

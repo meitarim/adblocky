@@ -27,7 +27,7 @@
     "message": "پس از بسته شدن این پنجره، روی بخشی از صفحه کلیک (یا راست کلیک) کن."
   },
   "description_chrome": {
-    "message": "مورد استفاده بیش از 50 میلیون نفر، یک مسدودکننده رایگان برای Chrome که تمامی تبلیغات آزاردهنده را مسدود می کند."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "مورد استفاده بیش از 50 میلیون نفر، یک مسدودکننده رایگان برای Opera که تمامی تبلیغات آزاردهنده را مسدود می کند."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "توسعه ساخت Community Adblock"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "تنظیمات هشدار ها"

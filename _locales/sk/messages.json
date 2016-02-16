@@ -27,7 +27,7 @@
     "message": "Po zatvorení tohto okna, kliknite (alebo kliknite pravým tlačidlom myši) na prvok na stránke."
   },
   "description_chrome": {
-    "message": "Používa viac ako 50 miliónov ľudí. Zadarmo blokuje VŠETKY obťažujúce reklamy, malware a sledovanie."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Používa viac ako 50 miliónov ľudí. Zadarmo blokuje VŠETKY obťažujúce reklamy, malware a sledovanie."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Vývojová verzia Community Adblock"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Konfigurovať nastavenia upozornení"

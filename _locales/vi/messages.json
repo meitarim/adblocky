@@ -27,7 +27,7 @@
     "message": "Sau khi đóng của sổ này, hãy ấn chuột (hoặc ấn chuột phải) vào đối tượng mà bạn cần khóa trên trang."
   },
   "description_chrome": {
-    "message": "Được hơn 50 triệu người sử dụng, một phần mềm miễn phí cho Chrome chặn tất cả quảng cáo, phần mềm độc hại và phần mềm gián điệp."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Được hơn 50 triệu người sử dụng, một phần mềm miễn phí cho Opera chặn tất cả quảng cáo, phần mềm độc hại và phần mềm gián điệp."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock bản phát triển"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Cấu hình thiết lập thông báo"

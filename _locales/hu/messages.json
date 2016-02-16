@@ -27,7 +27,7 @@
     "message": "Miután bezártad ezt a buborékot, kattints egy elemre az oldalon.."
   },
   "description_chrome": {
-    "message": "Több mint 50 millióan használják a Chrome-hoz ezt az ingyenes hirdetésszűrőt, amely letilt MINDEN idegesítő reklámot és kártevőt."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Több mint 50 millióan használják a Opera-hoz ezt az ingyenes hirdetésszűrőt, amely letilt MINDEN idegesítő reklámot és kártevőt."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock fejlesztői változat"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Értesítési beállítások konfigurálása"

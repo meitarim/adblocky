@@ -27,7 +27,7 @@
     "message": "இந்த விழிதிரை மூடிய பின், பக்கத்தில் உள்ள உறுப்பின் மேல் சொடுக்கவும். (அல்லது வலது விசையை சொடுக்கவும்.)"
   },
   "description_chrome": {
-    "message": "50 மில்லியன் மக்கள் பயன்படுத்தும் இலவச குரோம் விளம்பர தடுப்பான், தீம்பொருள் மற்றும் கண்காணிப்பு அனைத்து விளம்பரங்களையும் தடுக்கும்."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "50 மில்லியன் மக்கள் பயன்படுத்தும் இலவச ஒபேரா விளம்பர தடுப்பான், தீம்பொருள் மற்றும் கண்காணிப்பு அனைத்து விளம்பரங்களையும் தடுக்கும்."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock வளர்ச்சி கட்டமை"
+    "message": "Community Adblock"
   },
   "notification_with_buttons": {
     "message": "இந்த அறிவிப்பில் உள்ள எல்லா இணைப்புகளையும் திறக்க, 'சரி'யை சொடுக்கவும்."

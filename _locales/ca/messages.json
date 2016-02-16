@@ -27,7 +27,7 @@
     "message": "Després de tancar aquest Pop-up, clica (o fes clic amb el botó dret) a un element de la pàgina."
   },
   "description_chrome": {
-    "message": "Utilitzat per més de 50 milions de persones, un bloquejador d'anuncis classificats gratis per Chrome."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Utilitzat per més de 50 milions de persones, un bloquejador d'anuncis classificats gratis per a Opera."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock (versió en desenvolupament)"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Configura les notificacions"

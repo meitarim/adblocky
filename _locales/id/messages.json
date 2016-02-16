@@ -27,7 +27,7 @@
     "message": "Setelah menutup munculan ini , klik (atau klik kanan) elemen pada halaman web."
   },
   "description_chrome": {
-    "message": "Digunakan oleh 50 juta orang, pemblok iklan gratis untuk Chrome yang memblok SEMUA iklan yang mengganggu, malware, dan pelacak."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Digunakan oleh 50 juta orang, pemblok iklan gratis untuk Opera yang memblok SEMUA iklan yang mengganggu, malware, dan pelacak."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Struktur pengembangan Community Adblock"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Mengatur pengaturan pemberitahuan"

@@ -27,7 +27,7 @@
     "message": "När denna popup stängs, klicka (eller högerklicka) ett objekt på sidan."
   },
   "description_chrome": {
-    "message": "Över 50 miljoner användare. En gratis annonsblockerare för Chrome som blockerar ALLA irriterande annonser, malware och spårning."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Över 50 miljoner användare. En gratis annonsblockerare för Opera som blockerar ALLA irriterande annonser, malware och spårning."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock utvecklingsversion"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Notifikationsinställningar"

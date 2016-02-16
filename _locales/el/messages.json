@@ -27,7 +27,7 @@
     "message": "Μετά το κλείσιμο αυτού του αναδυόμενου παραθύρου, κάντε κλικ (ή δεξί κλικ) σε ένα στοιχείο στη σελίδα."
   },
   "description_chrome": {
-    "message": "Με πάνω απο 50 εκατομμύρια χρήστες, δωρεάν φραγέας διαφημίσεων για Chrome που φράζει ΟΛΕΣ τις ενοχλητικές διαφημίσεις ανιχνευτές κ.α"
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Με πάνω από 50 εκατομμύρια χρήστες, δωρεάν φραγέας διαφημίσεων για Opera, που φράζει ΟΛΕΣ τις ενοχλητικές διαφημίσεις, κακόβουλο λογισμικό και ανιχνευτές."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Έκδοση Community Adblock υπό-ανάπτυξη"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Διαμόρφωση ρυθμίσεων ειδοποιήσεων"

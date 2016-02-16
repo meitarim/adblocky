@@ -27,7 +27,7 @@
     "message": "Tämän ikkunan sulkemisen jälkeen klikkaa (tai oikea klikkaa) elementtiä jonka haluat estää."
   },
   "description_chrome": {
-    "message": "Yli 50 miljoonan ihmisen käyttämä ilmainen mainostenesto-ohjelma Chromelle. Estää KAIKKI mainokset, haittaohjelmat ja seurannan."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Yli 50 miljoonan ihmisen käyttämä ilmainen mainostenesto-ohjelma Operalle. Estää KAIKKI mainokset, haittaohjelmat ja seurannan."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock kehittäjän versio"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Määritä ilmoitusasetukset"

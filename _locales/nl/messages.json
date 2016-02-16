@@ -27,7 +27,7 @@
     "message": "Na het sluiten van deze popup, klik (of klik met de rechtermuisknop) op het pagina-element."
   },
   "description_chrome": {
-    "message": "Een gratis adblocker voor Chrome met meer dan 50 miljoen gebruikers, die ALLE vervelende advertenties, malware en tracking blokkeert"
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Een gratis adblocker voor Opera met meer dan 50 miljoen gebruikers, die ALLE vervelende advertenties, malware en tracking blokkeert."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock experimentele versie"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Configureer notificatie instellingen"

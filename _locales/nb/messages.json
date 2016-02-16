@@ -27,7 +27,7 @@
     "message": "Klikk (eller høyreklikk) på et element på siden etter at du har lukket dette vinduet."
   },
   "description_chrome": {
-    "message": "Brukes av over 50 millioner personer - et gratisverktøy for Chrome som blokkerer alle sjenerende annonser, malware og sporing."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Brukes av over 50 millioner personer - et gratisverktøy for Opera som blokkerer alle sjenerende annonser, malware og sporing."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock utviklerutgave"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Tilpass varslingsinnstillinger"

@@ -27,7 +27,7 @@
     "message": "このポップアップが閉じた後にページ上の要素をクリック(または右クリック)してください。"
   },
   "description_chrome": {
-    "message": "5,000万人以上に利用されている、Chrome 用の無料の広告ブロッカーです。目障りな広告、マルウェア、行動追跡を根こそぎブロックします。"
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "5,000万人以上に利用されている、Opera 用の無料の広告ブロッカーです。目障りな広告、マルウェア、行動追跡を根こそぎブロックします。"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock 開発版"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "通知について設定する"

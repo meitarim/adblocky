@@ -27,7 +27,7 @@
     "message": "Po zamknięciu tego okna kliknij na stronie niechciany element lewym lub prawym przyciskiem myszy."
   },
   "description_chrome": {
-    "message": "Używany przez ponad 50 milionów ludzi dodatek do Chrome, blokujący irytujące reklamy, złośliwe oprogramowanie i programy śledzące."
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "Używany przez ponad 50 milionów ludzi darmowy dodatek do przeglądarki Opera, blokujący irytujące reklamy, złośliwe oprogramowanie i programy śledzące zachowanie internautów w sieci."
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock – wersja rozwojowa"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "Konfiguruj ustawienia powiadomień"

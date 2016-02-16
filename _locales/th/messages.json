@@ -27,7 +27,7 @@
     "message": "หลังจากปิดป๊อปอัพแล้ว ให้คลิก (หรือคลิกขวา) องค์ประกอบบนเพจ"
   },
   "description_chrome": {
-    "message": "โปรแกรมบล็อกโฆษณาฟรีสำหรับ Chrome ที่มีผู้ใช้มากกว่า 50 ล้านคน แอพที่จะช่วยบล็อกโฆษณาอันน่ารำคาญ มัลแวร์ และการสอดแนมติดตามทั้งหมด"
+    "message": "Block all annoying ads while keeping some fair ads such as GOOGLE ads, keeping the internet a free place for all"
   },
   "description_opera": {
     "message": "โปรแกรมบล็อกโฆษณาฟรีสำหรับ Opera ที่มีผู้ใช้มากกว่า 50 ล้านคน แอพที่จะช่วยบล็อกโฆษณาอันน่ารำคาญ มัลแวร์ และการสอดแนมติดตามทั้งหมด"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock รุ่นกำลังพัฒนา"
+    "message": "Community Adblock"
   },
   "notification_configure": {
     "message": "ตั้งค่าการแจ้งเตือน"
