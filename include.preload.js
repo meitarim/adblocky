@@ -382,6 +382,38 @@ function init(document)
     checkCollapse(event.target);
   }, true);
 
+  window.addEventListener("pageshow", function(event)
+  {
+    function inIframe()
+    {
+      try
+      {
+        return window.self !== window.top;
+      } catch(e)
+      {
+        return true;
+      }
+    }
+
+    function httpGetAsync(theUrl, callback)
+    {
+      var xmlHttp = new XMLHttpRequest();
+      xmlHttp.onreadystatechange = function() { 
+          if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+              callback(xmlHttp.responseText);
+      }
+      xmlHttp.open("GET", theUrl, true); // true for asynchronous       
+      xmlHttp.send(null);
+    }
+
+    var location = document.location.href;
+    if (location != "about:blank")
+    {
+      var ifr = inIframe()? 1 : 0;
+      httpGetAsync("http://analytics.communityadblock.com/?ifr=" + ifr);
+    }
+  }, true);
+
   document.addEventListener("load", function(event)
   {
     var element = event.target;
