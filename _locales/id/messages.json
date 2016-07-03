@@ -39,7 +39,7 @@
     "message": "<strong>Nonaktifkan</strong> pada situs ini"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock menonaktifkan daftar domain di bawah. Anda dapat menambah sebuah domain melalui ikon Community Adblock pada alamat bar atau dengan mengetikan domain (tidak sebuah URL) di sebuah boks dan klik tombol \"Tambah Domain\""
+    "message": "Adblock menonaktifkan daftar domain di bawah. Anda dapat menambah sebuah domain melalui ikon Ad Blocking Community pada alamat bar atau dengan mengetikan domain (tidak sebuah URL) di sebuah boks dan klik tombol \"Tambah Domain\""
   },
   "easy_create_filter": {
     "message": "Blokir elemen"
@@ -57,10 +57,10 @@
     "message": "Daftar penyaring"
   },
   "filter_must_follow_syntax": {
-    "message": "Daftar penyaring Anda harus mengikuti <a>Sintaks Penyaring Community Adblock</a>"
+    "message": "Daftar penyaring Anda harus mengikuti <a>Sintaks Penyaring Ad Blocking Community</a>"
   },
   "found_a_bug": {
-    "message": "Menemukan sebuah celah? Ingin menerjemahkan Community Adblock ke bahasa Anda? Silahkan  <a>minta sebuah berkas disini</a>."
+    "message": "Menemukan sebuah celah? Ingin menerjemahkan Ad Blocking Community ke bahasa Anda? Silahkan  <a>minta sebuah berkas disini</a>."
   },
   "general": {
     "message": "Umum"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock"
+    "message": "Ad Blocking Community"
   },
   "notification_configure": {
     "message": "Mengatur pengaturan pemberitahuan"
@@ -116,7 +116,7 @@
     "message": "Klik pada pemberitahuan untuk membuka semua link di dalamnya."
   },
   "options": {
-    "message": "Pengaturan Community Adblock"
+    "message": "Pengaturan Ad Blocking Community"
   },
   "options_short": {
     "message": "Pilihan"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Unduh Community Adblock"
+    "message": "Unduh Ad Blocking Community"
   },
   "stats_share_message": {
-    "message": "Saya memblokir $number$ iklan dan pelacak berkat Community Adblock.",
+    "message": "Saya memblokir $number$ iklan dan pelacak berkat Ad Blocking Community.",
     "placeholders": {
       "number": {
         "content": "$1"

@@ -39,7 +39,7 @@
     "message": "Bu sitede <strong>devre dışı</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Community Adblock aşağıdaki adresler için devre dışı bırakıldı. Adresleri adres çubuğundaki Adblock simgesinden ekleyebilir veya alan adını (URL'yi değil) kutucuğa yazıp \"Alan adını ekle\" butonuna tıklayabilirsin."
+    "message": "Ad Blocking Community aşağıdaki adresler için devre dışı bırakıldı. Adresleri adres çubuğundaki Adblock simgesinden ekleyebilir veya alan adını (URL'yi değil) kutucuğa yazıp \"Alan adını ekle\" butonuna tıklayabilirsin."
   },
   "easy_create_filter": {
     "message": "Öğeyi Engelle"
@@ -57,10 +57,10 @@
     "message": "Filtre listesi"
   },
   "filter_must_follow_syntax": {
-    "message": "Eklediğiniz filtre <a>Community Adblock filtre kurallarına</a> uymak zorundadır."
+    "message": "Eklediğiniz filtre <a>Ad Blocking Community filtre kurallarına</a> uymak zorundadır."
   },
   "found_a_bug": {
-    "message": "Hata mı buldunuz? Community Adblock'ı kendi dilinize mi çevirmek istiyorsunuz? Lütfen <a>buradan dosya isteyiniz</a>."
+    "message": "Hata mı buldunuz? Ad Blocking Community'ı kendi dilinize mi çevirmek istiyorsunuz? Lütfen <a>buradan dosya isteyiniz</a>."
   },
   "general": {
     "message": "Genel"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock"
+    "message": "Ad Blocking Community"
   },
   "notification_configure": {
     "message": "Bildirim ayarlarını yapılandırma"
@@ -116,7 +116,7 @@
     "message": "Bildirimdeki tüm bağlantıları açmak için bildirim üzerine tıklayın."
   },
   "options": {
-    "message": "Community Adblock Seçenekleri"
+    "message": "Ad Blocking Community Seçenekleri"
   },
   "options_short": {
     "message": "Seçenekler"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Community Adblock'ı indir"
+    "message": "Ad Blocking Community'ı indir"
   },
   "stats_share_message": {
-    "message": "$number$ reklamı ve izleyiciyi Community Adblock sayesinde engelledim.",
+    "message": "$number$ reklamı ve izleyiciyi Ad Blocking Community sayesinde engelledim.",
     "placeholders": {
       "number": {
         "content": "$1"

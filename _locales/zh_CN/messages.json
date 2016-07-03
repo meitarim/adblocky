@@ -39,7 +39,7 @@
     "message": "对当前网站<strong>禁用</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Community Adblock 将不过滤以下域名。您可以通过点击地址栏的 Community Adblock 图标进行添加，也可在下面输入域名（非URL）然后点击“添加过滤规则”。"
+    "message": "Ad Blocking Community 将不过滤以下域名。您可以通过点击地址栏的 Ad Blocking Community 图标进行添加，也可在下面输入域名（非URL）然后点击“添加过滤规则”。"
   },
   "easy_create_filter": {
     "message": "拦截元素"
@@ -57,10 +57,10 @@
     "message": "过滤规则列表"
   },
   "filter_must_follow_syntax": {
-    "message": "您的过滤规则必须遵循 <a> Community Adblock 过滤规则语法</a>。"
+    "message": "您的过滤规则必须遵循 <a> Ad Blocking Community 过滤规则语法</a>。"
   },
   "found_a_bug": {
-    "message": "发现漏洞？想要帮忙翻译Community Adblock？请前往<a>此处询问</a>"
+    "message": "发现漏洞？想要帮忙翻译Ad Blocking Community？请前往<a>此处询问</a>"
   },
   "general": {
     "message": "常规"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock"
+    "message": "Ad Blocking Community"
   },
   "notification_configure": {
     "message": "配置通知设置"
@@ -116,7 +116,7 @@
     "message": "点击通知打开它上面的所有链接。"
   },
   "options": {
-    "message": "Community Adblock 选项"
+    "message": "Ad Blocking Community 选项"
   },
   "options_short": {
     "message": "设置"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "下载 Community Adblock"
+    "message": "下载 Ad Blocking Community"
   },
   "stats_share_message": {
-    "message": "感谢Community Adblock拦截了$number$个广告和跟踪行为。",
+    "message": "感谢Ad Blocking Community拦截了$number$个广告和跟踪行为。",
     "placeholders": {
       "number": {
         "content": "$1"

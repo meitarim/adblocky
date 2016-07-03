@@ -39,7 +39,7 @@
     "message": "<strong>Отключен</strong> на этом сайте"
   },
   "disabled_for_these_domains": {
-    "message": "Community Adblock выключен для перечисленных ниже доменов. Дополнительные домены можно добавить, щёлкнув значок Community Adblock на адресной строке или напечатав название домена (не ссылку) в данной области и нажав на кнопку «Добавить домен»."
+    "message": "Ad Blocking Community выключен для перечисленных ниже доменов. Дополнительные домены можно добавить, щёлкнув значок Ad Blocking Community на адресной строке или напечатав название домена (не ссылку) в данной области и нажав на кнопку «Добавить домен»."
   },
   "easy_create_filter": {
     "message": "Заблокировать элемент"
@@ -57,10 +57,10 @@
     "message": "Список фильтров"
   },
   "filter_must_follow_syntax": {
-    "message": "Ваш фильтр должен соответствовать <a>синтаксису фильтров Community Adblock</a>."
+    "message": "Ваш фильтр должен соответствовать <a>синтаксису фильтров Ad Blocking Community</a>."
   },
   "found_a_bug": {
-    "message": "Обнаружили ошибку? Желаете перевести Community Adblock на свой язык? Пожалуйста, <a>оформите заявку здесь</a>."
+    "message": "Обнаружили ошибку? Желаете перевести Ad Blocking Community на свой язык? Пожалуйста, <a>оформите заявку здесь</a>."
   },
   "general": {
     "message": "Общие"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock"
+    "message": "Ad Blocking Community"
   },
   "notification_configure": {
     "message": "Настроить параметры уведомлений"
@@ -116,7 +116,7 @@
     "message": "Щелкните по уведомлению, чтобы открыть все ссылки."
   },
   "options": {
-    "message": "Настройки Community Adblock"
+    "message": "Настройки Ad Blocking Community"
   },
   "options_short": {
     "message": "Настройки"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Скачать Community Adblock"
+    "message": "Скачать Ad Blocking Community"
   },
   "stats_share_message": {
-    "message": "Я заблокировал $number$ объявлений и трекеров благодаря Community Adblock.",
+    "message": "Я заблокировал $number$ объявлений и трекеров благодаря Ad Blocking Community.",
     "placeholders": {
       "number": {
         "content": "$1"

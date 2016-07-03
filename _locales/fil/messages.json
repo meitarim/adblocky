@@ -39,7 +39,7 @@
     "message": "<strong>Hindi Maaari</strong> sa site na ito"
   },
   "disabled_for_these_domains": {
-    "message": "Ang Community Adblock ay hindi gumagana sa mga nakalistang domains. Maaari kang magdagdag ng domain sa pamamagitan ng Community Adblock icon sa address bar o maaari ding ilagay ang domain (hindi URL) sa may kahon at pindutin ang \"Add domain\" button."
+    "message": "Ang Ad Blocking Community ay hindi gumagana sa mga nakalistang domains. Maaari kang magdagdag ng domain sa pamamagitan ng Ad Blocking Community icon sa address bar o maaari ding ilagay ang domain (hindi URL) sa may kahon at pindutin ang \"Add domain\" button."
   },
   "easy_create_filter": {
     "message": "Ihinto ang element"
@@ -57,10 +57,10 @@
     "message": "Listahan ng mga Filter"
   },
   "filter_must_follow_syntax": {
-    "message": "Ang iyong filter ay dapat nakasunod sa <a>Community Adblock filter syntax</a>."
+    "message": "Ang iyong filter ay dapat nakasunod sa <a>Ad Blocking Community filter syntax</a>."
   },
   "found_a_bug": {
-    "message": "Nakadiskobre ng bug? Gusto mo bang isalin ang Community Adblock sa inyong wika? <a>ilagay ang inyong request dito</a>."
+    "message": "Nakadiskobre ng bug? Gusto mo bang isalin ang Ad Blocking Community sa inyong wika? <a>ilagay ang inyong request dito</a>."
   },
   "invalid_css_selector": {
     "message": "$selector$ ay hindi valid na CSS selector",
@@ -90,7 +90,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock"
+    "message": "Ad Blocking Community"
   },
   "notification_with_buttons": {
     "message": "Pindutin ang 'OK' para mabuksan ang lahat ng links sa notifikasyon na ito."
@@ -99,7 +99,7 @@
     "message": "Pindutin ang notification para mabuksan ang mga links."
   },
   "options": {
-    "message": "Opsyon sa Community Adblock"
+    "message": "Opsyon sa Ad Blocking Community"
   },
   "options_short": {
     "message": "Mga pagpipilian"
@@ -138,10 +138,10 @@
     }
   },
   "stats_share_download": {
-    "message": "I - download ang Community Adblock"
+    "message": "I - download ang Ad Blocking Community"
   },
   "stats_share_message": {
-    "message": "Napigilan ko ang $number$ ads at trackers salamat sa Community Adblock.",
+    "message": "Napigilan ko ang $number$ ads at trackers salamat sa Ad Blocking Community.",
     "placeholders": {
       "number": {
         "content": "$1"

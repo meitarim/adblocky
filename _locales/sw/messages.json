@@ -39,7 +39,7 @@
     "message": "<strong>walemavu</strong> kwenye tovuti hii"
   },
   "disabled_for_these_domains": {
-    "message": "Community Adblock pamoja ni walemavu kwa ajili ya nyanja hapa chini. Unaweza kuongeza miliki aidha kupitia Community Adblock pamoja na icon katika bar anwani au kwa kuandika miliki (sio URL) katika sanduku na kubonyeza \" kuongeza miliki \" kifungo ."
+    "message": "Ad Blocking Community pamoja ni walemavu kwa ajili ya nyanja hapa chini. Unaweza kuongeza miliki aidha kupitia Ad Blocking Community pamoja na icon katika bar anwani au kwa kuandika miliki (sio URL) katika sanduku na kubonyeza \" kuongeza miliki \" kifungo ."
   },
   "easy_create_filter": {
     "message": "kuzuia kipengele"
@@ -57,10 +57,10 @@
     "message": "filter listd"
   },
   "filter_must_follow_syntax": {
-    "message": "Filter yako lazima kufuata <a> Community Adblock chujio syntax </a> ."
+    "message": "Filter yako lazima kufuata <a> Ad Blocking Community chujio syntax </a> ."
   },
   "found_a_bug": {
-    "message": "Kupatikana mdudu ? Wanataka kutafsiri Community Adblock katika lugha yako ? Tafadhali <a> faili ombi hapa </a> ."
+    "message": "Kupatikana mdudu ? Wanataka kutafsiri Ad Blocking Community katika lugha yako ? Tafadhali <a> faili ombi hapa </a> ."
   },
   "general": {
     "message": "ujumla"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock"
+    "message": "Ad Blocking Community"
   },
   "notification_with_buttons": {
     "message": "Bonyeza 'OK' kufungua viungo vyote katika taarifa hii."
@@ -110,7 +110,7 @@
     "message": "Bonyeza kwenye taarifa ya kufungua viungo vyote ndani yake."
   },
   "options": {
-    "message": "Community Adblock Options"
+    "message": "Ad Blocking Community Options"
   },
   "options_short": {
     "message": "chaguzi"

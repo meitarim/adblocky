@@ -39,7 +39,7 @@
     "message": "Šiame puslapyje <strong>išjungta</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Community Adblock žemiau išvardytiems domenams išjungtas. Pridėti domeną galite paspaudę Community Adblock piktogramą, adreso juostoje arba įvesdami domeną (ne URL) ir paspausdami „Pridėti domeną“ mygtuką."
+    "message": "Ad Blocking Community žemiau išvardytiems domenams išjungtas. Pridėti domeną galite paspaudę Ad Blocking Community piktogramą, adreso juostoje arba įvesdami domeną (ne URL) ir paspausdami „Pridėti domeną“ mygtuką."
   },
   "easy_create_filter": {
     "message": "Blokuoti elementą"
@@ -57,10 +57,10 @@
     "message": "Filtrų sąrašai"
   },
   "filter_must_follow_syntax": {
-    "message": "Jūsų filtras turi atitikti <a>Community Adblock filtrų sintaksę</a>."
+    "message": "Jūsų filtras turi atitikti <a>Ad Blocking Community filtrų sintaksę</a>."
   },
   "found_a_bug": {
-    "message": "Radote klaidą? Norite išversti Community Adblock į savo kalbą? Užpildykite <a>prašymą čia</a>."
+    "message": "Radote klaidą? Norite išversti Ad Blocking Community į savo kalbą? Užpildykite <a>prašymą čia</a>."
   },
   "general": {
     "message": "Bendra"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock"
+    "message": "Ad Blocking Community"
   },
   "notification_configure": {
     "message": "Konfigūruoti pranešimų nustatymus"
@@ -116,7 +116,7 @@
     "message": "Paspauskite ant pranešimo ir bus atvertos visos nuorodos jame."
   },
   "options": {
-    "message": "Community Adblock parinktys"
+    "message": "Ad Blocking Community parinktys"
   },
   "options_short": {
     "message": "Parinktys"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Parsisiųsti Community Adblock"
+    "message": "Parsisiųsti Ad Blocking Community"
   },
   "stats_share_message": {
-    "message": "Community Adblock dėka aš užblokavau $number$ reklamų.",
+    "message": "Ad Blocking Community dėka aš užblokavau $number$ reklamų.",
     "placeholders": {
       "number": {
         "content": "$1"

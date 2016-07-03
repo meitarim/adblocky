@@ -39,7 +39,7 @@
     "message": "<strong>Avaktiverat</strong> på denna webbplats"
   },
   "disabled_for_these_domains": {
-    "message": "Community Adblock är avaktiverad för domänerna i denna lista. Du kan lägga till en domän via Community Adblock-ikonen i adressfältet eller genom att skriva domännamnet (inte URL) i textboxen och klicka på \"Lägg till domän\"."
+    "message": "Ad Blocking Community är avaktiverad för domänerna i denna lista. Du kan lägga till en domän via Ad Blocking Community-ikonen i adressfältet eller genom att skriva domännamnet (inte URL) i textboxen och klicka på \"Lägg till domän\"."
   },
   "easy_create_filter": {
     "message": "Blockera objekt"
@@ -57,10 +57,10 @@
     "message": "Filterlistor"
   },
   "filter_must_follow_syntax": {
-    "message": "Ditt filter måste följa <a>Community Adblock filtersyntax</a>."
+    "message": "Ditt filter måste följa <a>Ad Blocking Community filtersyntax</a>."
   },
   "found_a_bug": {
-    "message": "Hittat ett fel? Vill du översätta Community Adblock till ett annat språk? Vänligen, <a>skapa en förfrågan här</a>."
+    "message": "Hittat ett fel? Vill du översätta Ad Blocking Community till ett annat språk? Vänligen, <a>skapa en förfrågan här</a>."
   },
   "general": {
     "message": "Allmänt"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock"
+    "message": "Ad Blocking Community"
   },
   "notification_configure": {
     "message": "Notifikationsinställningar"
@@ -116,7 +116,7 @@
     "message": "Klicka på meddelandet för att öppna alla länkar i det."
   },
   "options": {
-    "message": "Community Adblock Alternativ"
+    "message": "Ad Blocking Community Alternativ"
   },
   "options_short": {
     "message": "Inställningar"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Ladda ner Community Adblock"
+    "message": "Ladda ner Ad Blocking Community"
   },
   "stats_share_message": {
-    "message": "Jag blockerade $number$ annonser och trackers tack vare Community Adblock.",
+    "message": "Jag blockerade $number$ annonser och trackers tack vare Ad Blocking Community.",
     "placeholders": {
       "number": {
         "content": "$1"

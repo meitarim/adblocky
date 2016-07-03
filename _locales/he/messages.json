@@ -39,7 +39,7 @@
     "message": "<strong>מנוטרל</strong> באתר זה"
   },
   "disabled_for_these_domains": {
-    "message": "Community Adblock מנוטרל עבור שמות המתחם המופיעים להלן. ניתן להוסיף שם מתחם או דרך הסמל של Community Adblock שבשורת הכתובות או על ידי הקלדת שם המתחם (לא הכתובת) בתיבה וללחוץ על הלחצן \"הוספת שם מתחם\"."
+    "message": "Ad Blocking Community מנוטרל עבור שמות המתחם המופיעים להלן. ניתן להוסיף שם מתחם או דרך הסמל של Ad Blocking Community שבשורת הכתובות או על ידי הקלדת שם המתחם (לא הכתובת) בתיבה וללחוץ על הלחצן \"הוספת שם מתחם\"."
   },
   "easy_create_filter": {
     "message": "חסימת אלמנט"
@@ -57,10 +57,10 @@
     "message": "רשימות המסננים"
   },
   "filter_must_follow_syntax": {
-    "message": "המסנן שלכם חייב לציית <a>לתחביר סינון Community Adblock</a>."
+    "message": "המסנן שלכם חייב לציית <a>לתחביר סינון Ad Blocking Community</a>."
   },
   "found_a_bug": {
-    "message": "מצאת באג? ברצונך לתרגם את Community Adblock לשפתך? אנא <a>הגישו בקשתכם כאן</a>."
+    "message": "מצאת באג? ברצונך לתרגם את Ad Blocking Community לשפתך? אנא <a>הגישו בקשתכם כאן</a>."
   },
   "general": {
     "message": "כללי"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock"
+    "message": "Ad Blocking Community"
   },
   "notification_configure": {
     "message": "קביעת תצורת הגדרות ההתראה"
@@ -116,7 +116,7 @@
     "message": "לחיצה על התראה לפתיחת כל הקישורים שבתוכה."
   },
   "options": {
-    "message": "אפשרויות Community Adblock"
+    "message": "אפשרויות Ad Blocking Community"
   },
   "options_short": {
     "message": "אפשרויות"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "הורדת Community Adblock"
+    "message": "הורדת Ad Blocking Community"
   },
   "stats_share_message": {
-    "message": "אני חסמתי $number$ פרסומות ועוקבים הודות ל-Community Adblock.",
+    "message": "אני חסמתי $number$ פרסומות ועוקבים הודות ל-Ad Blocking Community.",
     "placeholders": {
       "number": {
         "content": "$1"

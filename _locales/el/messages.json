@@ -39,7 +39,7 @@
     "message": "<strong>Απενεργοποιημένο</strong> σε αυτή την σελίδα"
   },
   "disabled_for_these_domains": {
-    "message": "Το Community Adblock είναι απενεργοποιημένο για τους τομείς της ακόλουθης λίστας. Μπορείτε να προσθέσετε ένα τομέα, είτε μέσω του εικονιδίου Community Adblock στην γραμμή διευθύνσεων είτε πληκτρολογώντας τον τομέα (όχι το URL) στο κουτί και κάνοντας κλικ στο κουμπί \"Προσθήκη τομέα\"."
+    "message": "Το Ad Blocking Community είναι απενεργοποιημένο για τους τομείς της ακόλουθης λίστας. Μπορείτε να προσθέσετε ένα τομέα, είτε μέσω του εικονιδίου Ad Blocking Community στην γραμμή διευθύνσεων είτε πληκτρολογώντας τον τομέα (όχι το URL) στο κουτί και κάνοντας κλικ στο κουμπί \"Προσθήκη τομέα\"."
   },
   "easy_create_filter": {
     "message": "Φραγή στοιχείου"
@@ -57,10 +57,10 @@
     "message": "Λίστες φίλτρων"
   },
   "filter_must_follow_syntax": {
-    "message": "Το φίλτρο σας πρέπει να ακολουθεί τη <a>σύνταξη φίλτρου του Community Adblock</a>."
+    "message": "Το φίλτρο σας πρέπει να ακολουθεί τη <a>σύνταξη φίλτρου του Ad Blocking Community</a>."
   },
   "found_a_bug": {
-    "message": "Βρήκατε σφάλματα; Θέλετε να μεταφράσετε το Community Adblock στην γλώσσα σας; Παρακαλώ <a>καταχωρείστε ένα αίτημα εδώ</a>."
+    "message": "Βρήκατε σφάλματα; Θέλετε να μεταφράσετε το Ad Blocking Community στην γλώσσα σας; Παρακαλώ <a>καταχωρείστε ένα αίτημα εδώ</a>."
   },
   "general": {
     "message": "Γενικά"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock"
+    "message": "Ad Blocking Community"
   },
   "notification_configure": {
     "message": "Διαμόρφωση ρυθμίσεων ειδοποιήσεων"
@@ -116,7 +116,7 @@
     "message": "Κάντε κλικ στην ειδοποίηση για να ανοίξετε όλους τους συνδέσμους σε αυτή."
   },
   "options": {
-    "message": "Επιλογές Community Adblock"
+    "message": "Επιλογές Ad Blocking Community"
   },
   "options_short": {
     "message": "Επιλογές"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Λήψη του Community Adblock"
+    "message": "Λήψη του Ad Blocking Community"
   },
   "stats_share_message": {
-    "message": "Απέκλεισα $number$ διαφημίσεις και ανιχνευτές χάρη στο Community Adblock.",
+    "message": "Απέκλεισα $number$ διαφημίσεις και ανιχνευτές χάρη στο Ad Blocking Community.",
     "placeholders": {
       "number": {
         "content": "$1"

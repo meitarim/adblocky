@@ -39,7 +39,7 @@
     "message": "<strong>Disabled</strong> on this site"
   },
   "disabled_for_these_domains": {
-    "message": "Community Adblock is disabled for the domains listed below. You can add a domain either via the Community Adblock icon in the address bar or by typing the domain (not a URL) in the box and clicking the \"Add domain\" button."
+    "message": "Ad Blocking Community is disabled for the domains listed below. You can add a domain either via the Ad Blocking Community icon in the address bar or by typing the domain (not a URL) in the box and clicking the \"Add domain\" button."
   },
   "easy_create_filter": {
     "message": "Block element"
@@ -57,10 +57,10 @@
     "message": "Filter lists"
   },
   "filter_must_follow_syntax": {
-    "message": "Your filter must follow the <a>Community Adblock filter syntax</a>."
+    "message": "Your filter must follow the <a>Ad Blocking Community filter syntax</a>."
   },
   "found_a_bug": {
-    "message": "Found a bug? Want to translate Community Adblock into your language? Please <a>file a request here</a>."
+    "message": "Found a bug? Want to translate Ad Blocking Community into your language? Please <a>file a request here</a>."
   },
   "general": {
     "message": "General"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock"
+    "message": "Ad Blocking Community"
   },
   "notification_configure": {
     "message": "Configure notification settings"
@@ -116,7 +116,7 @@
     "message": "Click on the notification to open all links in it."
   },
   "options": {
-    "message": "Community Adblock Options"
+    "message": "Ad Blocking Community Options"
   },
   "options_short": {
     "message": "Options"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Download Community Adblock"
+    "message": "Download Ad Blocking Community"
   },
   "stats_share_message": {
-    "message": "I blocked $number$ ads and trackers thanks to Community Adblock.",
+    "message": "I blocked $number$ ads and trackers thanks to Ad Blocking Community.",
     "placeholders": {
       "number": {
         "content": "$1"

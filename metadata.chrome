@@ -2,7 +2,7 @@
 inherit = metadata.common
 
 [general]
-basename = Community Adblock
+basename = Ad Blocking Community
 permissions = tabs
   http://*/*
   https://*/*

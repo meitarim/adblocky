@@ -39,7 +39,7 @@
     "message": "<strong>Zakázané</strong> na tejto stránke"
   },
   "disabled_for_these_domains": {
-    "message": "Community Adblock je vypnutý v doménach uvedených nižšie. Môžete pridať doménu buď cez ikonu Community Adblock v paneli s adresou alebo zadaním domény (nie URL) do poľa a kliknutím na tlačidlo \"Pridať doménu\"."
+    "message": "Ad Blocking Community je vypnutý v doménach uvedených nižšie. Môžete pridať doménu buď cez ikonu Ad Blocking Community v paneli s adresou alebo zadaním domény (nie URL) do poľa a kliknutím na tlačidlo \"Pridať doménu\"."
   },
   "easy_create_filter": {
     "message": "Blokovať prvok"
@@ -57,10 +57,10 @@
     "message": "Zoznamy filtrov"
   },
   "filter_must_follow_syntax": {
-    "message": "Váš filter musí spĺňať <a>syntax filtrov Community Adblock</a>."
+    "message": "Váš filter musí spĺňať <a>syntax filtrov Ad Blocking Community</a>."
   },
   "found_a_bug": {
-    "message": "Nájdené chyba? Chcete preložiť Community Adblock do vášho jazyka? Prosím <a> zadajte žiadosť tu</a>."
+    "message": "Nájdené chyba? Chcete preložiť Ad Blocking Community do vášho jazyka? Prosím <a> zadajte žiadosť tu</a>."
   },
   "general": {
     "message": "Všeobecné"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock"
+    "message": "Ad Blocking Community"
   },
   "notification_configure": {
     "message": "Konfigurovať nastavenia upozornení"
@@ -116,7 +116,7 @@
     "message": "Kliknite na upozornenie pre otvorenie všetkých odkazov v ňom."
   },
   "options": {
-    "message": "Community Adblock nastavenia"
+    "message": "Ad Blocking Community nastavenia"
   },
   "options_short": {
     "message": "Možnosti"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Stiahnuť Community Adblock"
+    "message": "Stiahnuť Ad Blocking Community"
   },
   "stats_share_message": {
-    "message": "Zablokoval som $number$ reklám a sledovačov vďaka Community Adblock.",
+    "message": "Zablokoval som $number$ reklám a sledovačov vďaka Ad Blocking Community.",
     "placeholders": {
       "number": {
         "content": "$1"

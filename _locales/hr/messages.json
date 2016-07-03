@@ -39,7 +39,7 @@
     "message": "<strong>Onemogućeno</strong> na ovoj stranici"
   },
   "disabled_for_these_domains": {
-    "message": "Community Adblock je onemogućen za domene na popisu ispod. Možete dodati domenu ili pomoću Community Adblock ikone u adresnoj traci ili upisivanjem domene (ne URL-a) u polju ispod i klikom na tipku \"Dodaj domenu\"."
+    "message": "Ad Blocking Community je onemogućen za domene na popisu ispod. Možete dodati domenu ili pomoću Ad Blocking Community ikone u adresnoj traci ili upisivanjem domene (ne URL-a) u polju ispod i klikom na tipku \"Dodaj domenu\"."
   },
   "easy_create_filter": {
     "message": "Blokiraj element"
@@ -57,10 +57,10 @@
     "message": "Popisi filtera"
   },
   "filter_must_follow_syntax": {
-    "message": "Vaš filter mora slijediti <a>Community Adblock filter sintaksu</a>."
+    "message": "Vaš filter mora slijediti <a>Ad Blocking Community filter sintaksu</a>."
   },
   "found_a_bug": {
-    "message": "Pronašli ste grešku? Želite prevesti Community Adblock na svoj jezik? <a>Podnesite zahtjev ovdje</a>."
+    "message": "Pronašli ste grešku? Želite prevesti Ad Blocking Community na svoj jezik? <a>Podnesite zahtjev ovdje</a>."
   },
   "general": {
     "message": "Općenito"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock"
+    "message": "Ad Blocking Community"
   },
   "notification_configure": {
     "message": "Podesi postavke obavijesti"
@@ -116,7 +116,7 @@
     "message": "Kliknite na obavijest za otvaranje svih poveznica koje sadrži."
   },
   "options": {
-    "message": "Community Adblock mogućnosti"
+    "message": "Ad Blocking Community mogućnosti"
   },
   "options_short": {
     "message": "Mogućnosti"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Preuzmi Community Adblock"
+    "message": "Preuzmi Ad Blocking Community"
   },
   "stats_share_message": {
-    "message": "Blokirao sam $number$ reklama i pratitelja zahvaljujući Community Adblocku.",
+    "message": "Blokirao sam $number$ reklama i pratitelja zahvaljujući Ad Blocking Communityu.",
     "placeholders": {
       "number": {
         "content": "$1"

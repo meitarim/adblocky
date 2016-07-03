@@ -39,7 +39,7 @@
     "message": "<strong>Islegts</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Community Adblock Jūsu izvēlētajos domēnos ir atslēgts. Jūs varat pievienot domēnu izmantojot Community Adblock, kas atrodas adreses joslā, vai ievadot domēnu (nevis URL) kastē un noklikšķinot uz pogas \"Pievienot domēnu\"."
+    "message": "Ad Blocking Community Jūsu izvēlētajos domēnos ir atslēgts. Jūs varat pievienot domēnu izmantojot Ad Blocking Community, kas atrodas adreses joslā, vai ievadot domēnu (nevis URL) kastē un noklikšķinot uz pogas \"Pievienot domēnu\"."
   },
   "easy_create_filter": {
     "message": "Bloķēt elementu"
@@ -57,10 +57,10 @@
     "message": "Filtru saraksts"
   },
   "filter_must_follow_syntax": {
-    "message": "Filtram jāatbilst <a>Community Adblock filtru sintaksei</a>."
+    "message": "Filtram jāatbilst <a>Ad Blocking Community filtru sintaksei</a>."
   },
   "found_a_bug": {
-    "message": "Atradi defektu? Vēlies iztulkot Community Adblock savā valodā? Lūdzu <a>iesniedz pieprasījumu šeit</a>."
+    "message": "Atradi defektu? Vēlies iztulkot Ad Blocking Community savā valodā? Lūdzu <a>iesniedz pieprasījumu šeit</a>."
   },
   "general": {
     "message": "Vispārīgi"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock"
+    "message": "Ad Blocking Community"
   },
   "notification_configure": {
     "message": "Konfigurēt paziņojuma iestatījumus"
@@ -116,7 +116,7 @@
     "message": "Noklikšķiniet uz paziņojuma, lai atvērtu visas saites tajā."
   },
   "options": {
-    "message": "Community Adblock Opcijas"
+    "message": "Ad Blocking Community Opcijas"
   },
   "options_short": {
     "message": "Iespējas"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Lejuplādēt Community Adblock"
+    "message": "Lejuplādēt Ad Blocking Community"
   },
   "stats_share_message": {
-    "message": "Es esmu bloķējis $number$ reklāmas un trackerus, Paldies Community Adblock.",
+    "message": "Es esmu bloķējis $number$ reklāmas un trackerus, Paldies Ad Blocking Community.",
     "placeholders": {
       "number": {
         "content": "$1"

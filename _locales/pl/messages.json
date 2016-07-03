@@ -39,7 +39,7 @@
     "message": "<strong>Wyłączony</strong> na tej stronie"
   },
   "disabled_for_these_domains": {
-    "message": "Community Adblock jest wyłączony dla niżej wymienionych domen. Możesz dodać domenę, używając ikony Community Adblocka znajdującej się w pasku adresu lub wpisując domenę – nie adres URL – w polu i naciskając przycisk „Dodaj domenę”."
+    "message": "Ad Blocking Community jest wyłączony dla niżej wymienionych domen. Możesz dodać domenę, używając ikony Ad Blocking Communitya znajdującej się w pasku adresu lub wpisując domenę – nie adres URL – w polu i naciskając przycisk „Dodaj domenę”."
   },
   "easy_create_filter": {
     "message": "Blokuj element"
@@ -57,10 +57,10 @@
     "message": "Listy filtrów"
   },
   "filter_must_follow_syntax": {
-    "message": "Filtr musi przestrzegać <a>składni filtra Community Adblocka</a>."
+    "message": "Filtr musi przestrzegać <a>składni filtra Ad Blocking Communitya</a>."
   },
   "found_a_bug": {
-    "message": "Znalazłeś błąd? Chcesz przetłumaczyć Community Adblock na swój język? Zgłoś <a>tutaj</a>."
+    "message": "Znalazłeś błąd? Chcesz przetłumaczyć Ad Blocking Community na swój język? Zgłoś <a>tutaj</a>."
   },
   "general": {
     "message": "Ogólne"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock"
+    "message": "Ad Blocking Community"
   },
   "notification_configure": {
     "message": "Konfiguruj ustawienia powiadomień"
@@ -116,7 +116,7 @@
     "message": "Kliknij powiadomienie, aby otworzyć wszystkie znajdujące się w nim odnośniki."
   },
   "options": {
-    "message": "Community Adblock – ustawienia"
+    "message": "Ad Blocking Community – ustawienia"
   },
   "options_short": {
     "message": "Opcje"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Pobierz Community Adblock"
+    "message": "Pobierz Ad Blocking Community"
   },
   "stats_share_message": {
-    "message": "Dzięki Community Adblock zablokowano $number$ reklam i tropicieli.",
+    "message": "Dzięki Ad Blocking Community zablokowano $number$ reklam i tropicieli.",
     "placeholders": {
       "number": {
         "content": "$1"

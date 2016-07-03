@@ -39,7 +39,7 @@
     "message": "এই সাইটে <strong>নিষ্ক্রিয় করা আছে</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "নীচে তালিকাভুক্ত করা ডোমেইনের জন্য Community Adblock নিস্ক্রিয় করা আছে। আপনি হয় ঠিকানা দণ্ডে Community Adblock আইকনের মাধ্যমে একটি ডোমেইন যুক্ত করতে পারেন অথবা বাক্সের মধ্যে ডোমেইন লিখে (URL নয়) এবং \"ডোমেইন যুক্ত করুন\"-এ ক্লিক করে।"
+    "message": "নীচে তালিকাভুক্ত করা ডোমেইনের জন্য Ad Blocking Community নিস্ক্রিয় করা আছে। আপনি হয় ঠিকানা দণ্ডে Ad Blocking Community আইকনের মাধ্যমে একটি ডোমেইন যুক্ত করতে পারেন অথবা বাক্সের মধ্যে ডোমেইন লিখে (URL নয়) এবং \"ডোমেইন যুক্ত করুন\"-এ ক্লিক করে।"
   },
   "easy_create_filter": {
     "message": "উপাদান অবরুদ্ধ করুন"
@@ -57,10 +57,10 @@
     "message": "ফিল্টারের তালিকা"
   },
   "filter_must_follow_syntax": {
-    "message": "আপনার ফিল্টারকে <a>Community Adblock ফিল্টার সিনট্যাক্স</a> অনুসরণ করা আবশ্যক।"
+    "message": "আপনার ফিল্টারকে <a>Ad Blocking Community ফিল্টার সিনট্যাক্স</a> অনুসরণ করা আবশ্যক।"
   },
   "found_a_bug": {
-    "message": "একটি বাগ খুঁজে পেয়েছেন? আপনার ভাষায় Community Adblock অনুবাদ করতে চান? দয়া করে <a>এখানে একটি অনুরোধ ফাইল করুন</a>।"
+    "message": "একটি বাগ খুঁজে পেয়েছেন? আপনার ভাষায় Ad Blocking Community অনুবাদ করতে চান? দয়া করে <a>এখানে একটি অনুরোধ ফাইল করুন</a>।"
   },
   "general": {
     "message": "সাধারণ"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock"
+    "message": "Ad Blocking Community"
   },
   "notification_configure": {
     "message": "বিজ্ঞপ্তি সেটিংস কনফিগার করুন"
@@ -116,7 +116,7 @@
     "message": "এটিতে সকল লিংক খোলার জন্য বিজ্ঞপ্তিতে ক্লিক করুন।"
   },
   "options": {
-    "message": "Community Adblock অপশনস"
+    "message": "Ad Blocking Community অপশনস"
   },
   "options_short": {
     "message": "অপশনগুলি"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Community Adblock ডাউনলোড করুন"
+    "message": "Ad Blocking Community ডাউনলোড করুন"
   },
   "stats_share_message": {
-    "message": "আমি $number$টি বিজ্ঞাপন ও ট্রেকারকে অবরুদ্ধ করছি, এ জন্য Community Adblock কে ধন্যবাদ।",
+    "message": "আমি $number$টি বিজ্ঞাপন ও ট্রেকারকে অবরুদ্ধ করছি, এ জন্য Ad Blocking Community কে ধন্যবাদ।",
     "placeholders": {
       "number": {
         "content": "$1"

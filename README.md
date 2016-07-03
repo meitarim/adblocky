@@ -1,9 +1,9 @@
-Community Adblock for Chrome, Opera and Safari
+Ad Blocking Community for Chrome, Opera and Safari
 =========================================
 
-This repository contains the platform-specific Community Adblock source code for
-Chrome, Opera and Safari. It can be used to build Community Adblock for these
-platforms, generic Community Adblock code will be extracted from other repositories
+This repository contains the platform-specific Ad Blocking Community source code for
+Chrome, Opera and Safari. It can be used to build Ad Blocking Community for these
+platforms, generic Ad Blocking Community code will be extracted from other repositories
 automatically (see _dependencies_ file).
 
 Building

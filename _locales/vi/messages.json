@@ -39,7 +39,7 @@
     "message": "<strong>Đã loại bỏ</strong> trên trang này"
   },
   "disabled_for_these_domains": {
-    "message": "Community Adblock không hoạt động ở các tên miền dưới đây. Bạn có thể thêm một tên miền bằng cách bấm vào biểu tượng Community Adblock nằm trên thanh địa chỉ, hoặc gõ tên miền (không phải là URL) trong khung bên dưới và ấn nút \"Thêm tên miền\"."
+    "message": "Ad Blocking Community không hoạt động ở các tên miền dưới đây. Bạn có thể thêm một tên miền bằng cách bấm vào biểu tượng Ad Blocking Community nằm trên thanh địa chỉ, hoặc gõ tên miền (không phải là URL) trong khung bên dưới và ấn nút \"Thêm tên miền\"."
   },
   "easy_create_filter": {
     "message": "Chặn phần từ"
@@ -57,10 +57,10 @@
     "message": "Danh sách các bộ lọc"
   },
   "filter_must_follow_syntax": {
-    "message": "Bộ lọc của bạn phải tuân theo <a>cú pháp bộ lọc của Community Adblockx</a>."
+    "message": "Bộ lọc của bạn phải tuân theo <a>cú pháp bộ lọc của Ad Blocking Communityx</a>."
   },
   "found_a_bug": {
-    "message": "Bạn phát hiện thấy lỗi? Bạn muốn dịch Community Adblock sang ngôn ngữ của bạn? Hãy <a>gửi yêu cầu tại đây</a>."
+    "message": "Bạn phát hiện thấy lỗi? Bạn muốn dịch Ad Blocking Community sang ngôn ngữ của bạn? Hãy <a>gửi yêu cầu tại đây</a>."
   },
   "general": {
     "message": "Tổng quan"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock"
+    "message": "Ad Blocking Community"
   },
   "notification_configure": {
     "message": "Cấu hình thiết lập thông báo"
@@ -116,7 +116,7 @@
     "message": "Nhấn vào thông báo để mở tất cả liên kết trong nó."
   },
   "options": {
-    "message": "Tuỳ chỉnh Community Adblock"
+    "message": "Tuỳ chỉnh Ad Blocking Community"
   },
   "options_short": {
     "message": "Tùy chỉnh"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Tải Community Adblock"
+    "message": "Tải Ad Blocking Community"
   },
   "stats_share_message": {
-    "message": "Tôi đã chặn $number$ quảng cáo và những phần mềm theo dõi nhờ có Community Adblock.",
+    "message": "Tôi đã chặn $number$ quảng cáo và những phần mềm theo dõi nhờ có Ad Blocking Community.",
     "placeholders": {
       "number": {
         "content": "$1"

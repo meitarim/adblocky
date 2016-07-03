@@ -39,7 +39,7 @@
     "message": "Auf dieser Seite <strong>deaktiviert</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Community Adblock wird für die unten aufgelisteten Domains deaktiviert. Sie können eine Domain über das Community Adblock-Symbol in der Adressleiste hinzufügen oder Sie schreiben eine Domain in das Textfeld und klicken auf „Domain hinzufügen“."
+    "message": "Ad Blocking Community wird für die unten aufgelisteten Domains deaktiviert. Sie können eine Domain über das Ad Blocking Community-Symbol in der Adressleiste hinzufügen oder Sie schreiben eine Domain in das Textfeld und klicken auf „Domain hinzufügen“."
   },
   "easy_create_filter": {
     "message": "Element blockieren"
@@ -57,10 +57,10 @@
     "message": "Filterlisten"
   },
   "filter_must_follow_syntax": {
-    "message": "Ihr Filter muss nach der <a>Community Adblock Filterschreibweise</a> geschrieben werden."
+    "message": "Ihr Filter muss nach der <a>Ad Blocking Community Filterschreibweise</a> geschrieben werden."
   },
   "found_a_bug": {
-    "message": "Sie haben einen Fehler gefunden oder wollen Community Adblock in eine andere Sprache übersetzen? Bitte schreiben Sie uns <a>hier</a>."
+    "message": "Sie haben einen Fehler gefunden oder wollen Ad Blocking Community in eine andere Sprache übersetzen? Bitte schreiben Sie uns <a>hier</a>."
   },
   "general": {
     "message": "Allgemein"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Community Adblock"
+    "message": "Ad Blocking Community"
   },
   "notification_configure": {
     "message": "Benachrichtigungen konfigurieren"
@@ -116,7 +116,7 @@
     "message": "Auf die Benachrichtigung klicken, um alle enthaltenen Links zu öffnen."
   },
   "options": {
-    "message": "Community Adblock Optionen"
+    "message": "Ad Blocking Community Optionen"
   },
   "options_short": {
     "message": "Optionen"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Community Adblock herunterladen"
+    "message": "Ad Blocking Community herunterladen"
   },
   "stats_share_message": {
-    "message": "Ich habe $number$ Werbeanzeigen und Verfolgungsdienste dank Community Adblock blockiert.",
+    "message": "Ich habe $number$ Werbeanzeigen und Verfolgungsdienste dank Ad Blocking Community blockiert.",
     "placeholders": {
       "number": {
         "content": "$1"
